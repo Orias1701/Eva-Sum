@@ -1,0 +1,46 @@
+[
+    {
+        "Index": 0,
+        "Summary": "Theo Cynthia Borja, trưởng nhóm tại tổ chức The Decision Lab – nơi các chuyên gia nghiên cứu cách mọi người ra quyết định, việc phụ thuộc vào công cụ tìm kiếm sẽ nảy sinh bẫy tâm lý được gọi là \"thiên kiến sẵn có\". Tâm lý này cho rằng những thông tin dễ tiếp cận nhất là thông tin xác thực nhất. Tuy nhiên, thuật toán của Google đôi khi hiển thị các nguồn tin không đáng tin cậy, thậm chí gây hiểu lầm.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, các thông tin đều xuất phát từ văn bản gốc. Tuy nhiên, có một chi tiết nhỏ được thêm vào mà không có trong đoạn văn gốc: \"Kết quả bạn nhìn thấy đầu tiên không nhất thiết là kết quả chính xác nhất.\" Mặc dù ý này có thể suy ra từ nội dung gốc, nhưng nó không được diễn đạt trực tiếp trong văn bản gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt được trình bày mạch lạc, các ý được liên kết logic với nhau. Thông tin về khuyến nghị của Borja và mẹo của Goldberg được phân tách rõ ràng, giúp người đọc dễ theo dõi và hiểu nội dung."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm định nghĩa về 'thiên kiến sẵn có', tác hại của việc phụ thuộc vào công cụ tìm kiếm, khuyến nghị của Cynthia Borja và mẹo của Beth Goldberg để xác minh thông tin. Không có chi tiết nào thừa hoặc không liên quan."
+            },
+            "Nhận xét chung": {
+                "Điểm": 4.67,
+                "Nhận xét": "Nhìn chung, bản tóm tắt có chất lượng tốt. Các ý chính được truyền tải đầy đủ, mạch lạc và trung thực với văn bản gốc. Điểm cần cải thiện nhỏ là tránh thêm những diễn giải dù hợp lý nhưng không có trong văn bản gốc để đảm bảo tính trung thực tuyệt đối."
+            }
+        }
+    },
+    {
+        "Index": 1,
+        "Summary": "Mike ở Austin, bang Texas muốn biến những kiến thức anh giảng trong các chương trình cố vấn kinh doanh thành hiện thực. Anh gọi đây là \"Thử thách lấy lại triệu đô\", nhằm chứng minh không cần phải có tiền mới kiếm được tiền. Bạn chỉ cần cống hiến, làm việc chăm chỉ và có chút hiểu biết về kinh doanh.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực với văn bản gốc, tuy nhiên có một số chi tiết được thêm vào hoặc diễn giải mà không có trong đoạn văn gốc được cung cấp. Ví dụ, bản tóm tắt mô tả chi tiết các bước Mike thực hiện để kiếm tiền (bán đồ nội thất nhặt được, làm trung gian, mua laptop, thuê văn phòng, làm freelancer, bán cà phê), thời gian thực hiện các giai đoạn này (vài ngày kiếm 300 đô, hai tuần thuê văn phòng, ba tháng làm freelancer), lý do kết thúc thử thách (bố bị ung thư), và kết quả cuối cùng (kiếm được 64.000 đô). Những thông tin này không có trong đoạn văn gốc ngắn gọn được cung cấp. Mặc dù những thông tin này có thể đúng dựa trên nguồn gốc đầy đủ của bài báo, nhưng so với đoạn văn gốc được cung cấp, chúng là thông tin bổ sung."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các ý được trình bày theo trình tự thời gian hợp lý, từ mục tiêu của Mike, cách anh bắt đầu thử thách, những thành công ban đầu, đến lý do kết thúc và kết quả. Các câu liên kết với nhau một cách logic và dễ hiểu."
+            },
+            "Tính liên quan": {
+                "Điểm": 3,
+                "Đánh giá": "Dựa trên đoạn văn gốc ngắn gọn, bản tóm tắt bao gồm nhiều chi tiết không thực sự cần thiết để nắm bắt ý chính. Ý chính của đoạn văn gốc là Mike muốn chứng minh không cần tiền vẫn có thể kiếm được tiền thông qua thử thách 'lấy lại triệu đô'. Các chi tiết về việc anh kiếm tiền như thế nào, thời gian cụ thể, lý do kết thúc thử thách, và số tiền kiếm được là thông tin bổ sung và không hoàn toàn liên quan trực tiếp đến ý chính được nêu trong đoạn văn gốc."
+            },
+            "Nhận xét chung": {
+                "Điểm": 4.0,
+                "Nhận xét": "Bản tóm tắt có tính mạch lạc cao và dễ hiểu. Tuy nhiên, so với đoạn văn gốc được cung cấp, bản tóm tắt chứa nhiều thông tin chi tiết hơn mức cần thiết, làm giảm đi tính trung thực (do bổ sung thông tin) và tính liên quan (do bao gồm nhiều chi tiết không trực tiếp từ đoạn gốc). Điểm mạnh của bản tóm tắt là khả năng trình bày thông tin một cách rõ ràng và logic. Để cải thiện, bản tóm tắt nên tập trung hơn vào việc truyền tải chính xác và ngắn gọn những thông tin có trong đoạn văn gốc, tránh thêm các chi tiết không được đề cập."
+            }
+        }
+    }
+]
