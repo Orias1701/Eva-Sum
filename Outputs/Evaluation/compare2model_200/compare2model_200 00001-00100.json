@@ -2198,5 +2198,929 @@
                 "Đánh giá": "Bản tóm tắt này có tính trung thực cao và tập trung vào một số ý chính. Tuy nhiên, để cải thiện, cần tăng cường tính mạch lạc bằng cách sử dụng câu cú rõ ràng hơn và đảm bảo bao gồm đầy đủ các khía cạnh quan trọng của văn bản gốc để tăng tính liên quan."
             }
         }
+    },
+    {
+        "Index": "00101",
+        "Article": "Thông qua môn học này, sinh viên hiểu được sự cần thiết phải học tốt các môn học tiếp theo như ngôn ngữ lập trình, phân tích, thiết kế, kiểm thử, bảo trì, quản lý dự án phần mềm,… và hiểu được những kiến thức đó sẽ góp phần vào giai đoạn nào của quy trình phát triển phần mềm mà học phần nhập môn công nghệ phần mềm đã giới thiệu. Công nghiệp phần mềm đã trở thành ngành khổng lồ bởi vì chi phí phần mềm thường chiếm phần lớn chi phí của cả hệ thống máy tính. Chi phí phần mềm trên máy tính cá nhân thường lớn hơn nhiều so với chi phí phần cứng. Ví dụ một đơn vị sử dụng 100 máy tính (chi phí phần cứng là mua 100 máy tính và các thiết bị khác), tất cả các máy tính đều cài hệ điều hành bản quyền. Giả sử mỗi máy tính cài 20 phần mềm ứng dụng thường dùng phải trả tiền bản quyền mỗi năm và còn phải mua bản quyền phần mềm đặc thù của đơn vị. Như vậy chi phí phần mềm cực lớn so với phần cứng. Một đặc trưng khác là phần mềm không mòn cũ nhưng thoái hóa theo thời gian. Trên thực tế, môi trường sử dụng luôn có những thay đổi, nhu cầu người dùng ngày càng cao, hoặc trong quá trình sử dụng phần mềm cần được nâng cấp, thay đổi nhiều lần dẫn đến lỗi phát sinh tăng quá mức kiểm soát, do đó phần mềm trước đây trở nên lỗi thời, thoái hóa, không dùng đến. Ví dụ phần mềm hệ điều hành Windows đang sử dụng thì trước đây người ta dùng Windows 98, Windows 2000, Windows XP,… Một đặc trưng quan trọng nữa thuộc về bản chất của phần mềm là sự thay đổi để thích ứng. Thế giới thực luôn thay đổi và phát triển theo thời gian dẫn đến những nghiệp vụ thay đổi, nhu cầu con người thay đổi thì phần mềm phải được thay đổi theo để thích ứng với những thay đổi đó, thích ứng với môi trường vận hành. Quá trình phát triển về mặt công nghệ có sự thay đổi phần cứng, phần mềm như hệ điều hành thay đổi từ Windows XP qua Windows 7 hay Linux thì các phần mềm nghiệp vụ cũng phải thay đổi theo để tương thích với hệ thống mới. Một điều nữa cần nhấn mạnh là phần mềm không được lắp ráp hay sản xuất từ mẫu sẵn có như các sản phẩm công nghiệp khác. Một sản phẩm phần mềm là kết quả của lao động trí tuệ, là kết tinh từ chất xám của những nhóm người làm việc chuyên nghiệp. Đặc thù của việc phát triển phần mềm là phải làm việc theo nhóm, vì sản phẩm của ngành công nghiệp này có thể giúp con người thực hiện một số chức năng trong công việc một cách hiệu quả và tin cậy.",
+        "Summary": "\"Môn học nhập môn công nghệ phần mềm giúp sinh viên hiểu được sự cần thiết của các môn học tiếp theo như ngôn ngữ lập trình, phân tích, thiết kế, kiểm thử, bảo trì, quản lý dự án phần mềm, và hiểu được những kiến thức đó sẽ góp phần vào giai đoạn nào của quy trình phát triển phần mềm mà học phần nhập môn công nghệ phần mềm đã giới thiệu. Phần mềm không mòn cũ nhưng thoái hóa theo thời gian, do môi trường thay đổi và nhu cầu thay đổi, dẫn đến phần mềm phải thay đổi theo để thích ứng.\"",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các ý được trình bày rõ ràng và có sự liên kết logic với nhau. Câu văn trôi chảy và dễ hiểu."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Tóm tắt tập trung vào những ý chính của văn bản gốc, bao gồm tầm quan trọng của môn học và đặc điểm của phần mềm là 'thoái hóa theo thời gian' và cần 'thay đổi để thích ứng'. Không có chi tiết nào thừa hoặc không liên quan."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt. Tóm tắt ngắn gọn, chính xác, mạch lạc và liên quan đến nội dung chính của văn bản gốc. Không có điểm nào cần cải thiện."
+            }
+        }
+    },
+    {
+        "Index": "00102",
+        "Article": "Ý tưởng đối tượng xuất phát từ ngôn ngữ lập trình mô phỏng. Đối tượng là thực thể có tính tự trị nằm trong hệ thống. Chương trình mô phỏng có thể coi như chương trình quản lý một số lượng lớn các đơn vị tính toán riêng biệt, mỗi đơn vị tính toán thực hiện một nhiệm vụ nào đó tại một thời điểm cụ thể và các đơn vị tính toán có thể có quan hệ với nhau. Ngôn ngữ lập trình mô phỏng Simula 67 đưa ra ý tưởng về lớp (class), dùng để định nghĩa hành vi của đơn vị tính toán mô phỏng, giống như chương trình định nghĩa hành vi tiến trình. Định nghĩa lớp bao gồm các phương tiện cho phép đối tượng khai báo dữ liệu riêng của mình. Như vậy, lớp giống một kiểu dữ liệu trừu tượng có trạng thái riêng (tập hợp giá trị của các biến riêng) và được thực hiện như một đơn vị tính toán tự trị. Quá trình mô phỏng được định nghĩa bằng cách xác định tập thể hiện của các lớp, là các đối tượng và giao tiếp giữa các đối tượng thông qua việc gửi thông điệp. Đối tượng chỉ phản ứng lại với các thông điệp. Sau khi tạo ra, đối tượng có thể nhận thông điệp từ các đối tượng khác. Đối tượng phản ứng lại bằng cách thực hiện tính toán trên dữ liệu của mình và sau đó gửi thông điệp trả lời. Do hành vi của đối tượng được xác định thông qua định nghĩa lớp, lập trình viên định nghĩa các lớp và cách thức khởi tạo đối tượng từ định nghĩa lớp. Ngày nay, hướng đối tượng được sử dụng trong tất cả các ứng dụng. Ngôn ngữ lập trình hướng đối tượng đã đưa ra mô hình lập trình ứng dụng mới. Bởi tính phổ biến của mô hình này, một số HĐH hiện nay được cài đặt bằng cách sử dụng đối tượng (HĐH Spring). Hướng đối tượng ngày càng có vai trò quan trọng trong các HĐH hiện đại.",
+        "Summary": "\"Đối tượng là thực thể tự trị trong hệ thống, được định nghĩa bằng lớp (class) để định nghĩa hành vi của đơn vị tính toán, giống như chương trình quản lý một số lượng lớn đơn vị tính toán riêng biệt. Lớp giống như một kiểu dữ liệu trừu tượng có trạng thái riêng, được thực hiện như một đơn vị tính toán tự trị. Quá trình mô phỏng được định nghĩa bằng cách xác định tập thể hiện của các lớp, là các đối tượng và giao tiếp giữa các đối tượng thông qua việc gửi thông điệp. Hướng đối tượng được sử dụng trong tất cả các ứng dụng, đặc biệt",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, tuy nhiên có một vài chi tiết nhỏ bị lược bỏ có thể ảnh hưởng đến sự đầy đủ của thông tin. Ví dụ, bản tóm tắt không đề cập đến ngôn ngữ lập trình Simula 67, là nguồn gốc của ý tưởng về lớp (class). Ngoài ra, câu cuối 'Hướng đối tượng được sử dụng trong tất cả các ứng dụng, đặc biệt' bị bỏ lửng, gây khó hiểu."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, các ý được trình bày theo một trình tự logic. Tuy nhiên, việc câu cuối bị bỏ lửng làm giảm tính mạch lạc của toàn bộ đoạn văn. Cần hoàn thiện câu cuối để đảm bảo sự liền mạch."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, như định nghĩa đối tượng, vai trò của lớp (class), và ứng dụng của hướng đối tượng. Tuy nhiên, việc lược bỏ một số chi tiết như ví dụ về HĐH Spring có thể làm giảm tính liên quan đối với một số độc giả."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được các ý chính của văn bản gốc. Tuy nhiên, cần chú ý hơn đến việc đảm bảo tính đầy đủ của thông tin và hoàn thiện các câu văn để tăng tính mạch lạc. Cần sửa lại câu cuối cùng để đảm bảo tính trọn vẹn của thông tin."
+            }
+        }
+    },
+    {
+        "Index": "00103",
+        "Article": "b) Một số loại văn bản điển hình\n - Văn bản text: Văn bản text hay văn bản thuần túy (Plain text, trái với Formatted\n text, styled text hay rich text) là dạng trình bày văn bản trên máy tính chỉ chứa văn bản mà\n không sử dụng các định dạng văn bản để trình bày, nó có thể đọc được dễ dàng mà không cần\n xử lý phức tạp. Hầu hết các tệp văn bản thuần túy đều có phần mở rộng là đuôi .txt và có rất\n nhiều các phần mềm hỗ trợ việc soạn thảo văn bản thuần túy sẵn có trên hệ điều hành như là\n là Notepad, NotePad++ (Windows), edit (DOS), ed, emacs, vi, vim, Gedit hoặc nano (Unix,\n Linux), SimpleText (Mac OS), hoặc TextEdit (Mac OS X).\n - Siêu văn bản HTML: HTML - Hyper Text Markup Language (Ngôn ngữ đánh\n dấu siêu văn bản) được sử dụng để tạo một trang web, trên một website có thể sẽ chứa nhiều\n trang và mỗi trang được quy ra là một tài liệu HTML. Một tập tin HTML sẽ bao gồm các phần\n tử HTML và được lưu lại dưới đuôi mở rộng là .html hoặc .htm. Các thẻ HTML không phân\n biệt chữ hoa chữ thường và có thể tạo tài liệu HTML bằng bất kỳ trình soạn thảo nào như\n Notepad, DreamWeaver, …\n - Văn bản theo chuẩn Microsoft Word: Microsoft Word, còn biết đến với tên khác là\n Winword, là một công cụ soạn thảo văn bản khá phổ biến hiện nay của công ty phần mềm nổi\n tiếng Microsoft. Nó cho phép người dùng làm việc với văn bản thô (text), các hiệu ứng như\n phông chữ, màu sắc cùng với hình ảnh đồ họa và nhiều hiệu ứng đa phương tiện khác nhau\n như âm thanh, video khiến cho việc soạn thảo văn bản được sinh động và thuận tiện hơn.\n Ngoài ra cũng có các công cụ kiểm tra như kiểm tra chính tả, ngữ pháp của nhiều ngôn ngữ\n khác nhau để hỗ trợ cho người dùng.\n - Văn bản theo chuẩn định dạng PDF: PDF hay còn được gọi với cái tên đầy đủ114\n Portable Document Format là một định dạng văn bản di động của hãng Adobe System. Tương\n tự như Microsoft Word, file PDF hỗ trợ hiển thị nhiều loại nội dung khác nhau như text, hình\n ảnh, video,... Hơn thế nữa, với ưu điểm nhỏ gọn cùng tính bảo mật cao nên PDF được sử dụng\n rộng rãi để lưu trữ tài liệu trên mạng. Đặc biệt các định dạng file PDF không thể chỉnh sửa,\n thay đổi được nội dung mà chỉ có phần mềm chuyên dụng mới chỉnh sửa được. Nhưng khi\n chỉnh sửa sẽ khó có được văn bản chuẩn như ban đầu.",
+        "Summary": "Văn bản text là dạng trình bày văn bản trên máy tính không sử dụng định dạng văn bản để trình bày, có thể đọc dễ dàng mà không cần xử lý phức tạp. Văn bản thuần túy là dạng trình bày văn bản không sử dụng định dạng văn bản để trình bày, có thể đọc dễ dàng bằng Notepad hoặc Microsoft Word. Văn bản theo chuẩn Microsoft Word là công cụ soạn thảo phổ biến, hỗ trợ nhiều loại nội dung như text, hình ảnh, âm thanh và kiểm tra chính tả.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Cụ thể, việc nói rằng văn bản thuần túy có thể đọc dễ dàng bằng Microsoft Word là không chính xác, vì văn bản gốc chỉ đề cập đến Notepad và các trình soạn thảo văn bản thuần túy khác. Ngoài ra, phần tóm tắt về PDF bị thiếu so với văn bản gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, các ý được trình bày rõ ràng và dễ hiểu. Tuy nhiên, có thể cải thiện bằng cách liên kết các câu chặt chẽ hơn để tạo sự liền mạch hơn."
+            },
+            "Tính liên quan": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tập trung vào một số loại văn bản điển hình được đề cập trong văn bản gốc, nhưng bỏ qua định dạng PDF, một định dạng quan trọng. Ngoài ra, việc lặp lại ý về văn bản thuần túy ở hai câu liên tiếp làm giảm tính liên quan và hiệu quả của bản tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức trung bình. Điểm mạnh là sự rõ ràng trong diễn đạt, nhưng cần cải thiện về tính trung thực (tránh thông tin sai lệch) và tính liên quan (bao quát đầy đủ các ý chính và tránh lặp ý). Nên bổ sung thông tin về định dạng PDF và loại bỏ sự lặp lại về văn bản thuần túy."
+            }
+        }
+    },
+    {
+        "Index": "00104",
+        "Article": "Chính vì vậy, cuộc sống của con ngƣời ngày càng “gắn chặt” với chúng, nó đƣợc ví nhƣ một dạng “thuốc phiện mới”. Ngƣời sử dụng di động luôn hoạt động online, lƣớt web mọi lúc mọi nơi. Số liệu đƣợc công bố từ nghiên cứu của Ofcom: Có đến 81% ngƣời dùng điện thoại bật điện thoại liên tục, ngay cả khi ngủ; 23% ngƣời lớn và 34% thanh thiếu niên sử dụng điện thoại suốt giờ ăn và 22%ngƣời lớn, 47% thanh thiếu niên dùng điện thoại trong… toilet. Vì vậy các doanh nghiệp đang ngày càng phát triển thị trƣờng kinh doanh trực tuyến trên điện thoại di động và dần đƣa nó trở thành xu hƣớng mua bán phổ biến trên toàn cầu. Ví dụ doanh thu bán hàng của di động của eBay đã đạt gần 2 tỷ USD trong năm 2010. Vào năm 2011, con số này đã lên đến 5 tỷ USD, tăng gần 2 lần. Hay Theo số liệu mùa thu năm 2013 của IBM Core Metrics, thƣơng mại di động của Mỹ chiếm 9,8% doanh thu thƣơng mại điện Tại Việt Nam, trong số hơn 30 đơn vị lớn nhỏ đang tham gia thị trƣờng thƣơng mại điện tử, đã có khoảng 1/3 trong số đó phát triển thêm ứng dụng cho phép ngƣời dùng xem và đặt hàng trên smartphone nhƣ: Lazada, Zalora, Vatgia, NhomMua hay Hotdeal. Theo nghiên cứu của hãng nghiên cứu thị trƣờng IHS, số ngƣời sử dụng smartphone năm 2017 sẽ đạt 1.5 tỷ ngƣời và có xu hƣớng ngày càng gia tăng. Chính vì vậy, Mobile retailing hay m-commerce cũng sẽ trở thành hình thức kinh doanh trực tuyến chủ yếu, đáp ứng xu hƣớng mới trong tâm lý khách hàng. Social commerce ra đời trong thời đại các mạng xã hội và các nhóm hoạt động đƣợc kết hợp với thƣơng mại điện tử và bán lẻ trực tiếp. Điểm mạnh tạo nên thành công của thƣơng mại xã hội là tạo sự vui thích cho khách hàng để họ tuyên truyền cho những ngƣời khác thông Hình 3.1: Minh họa hoạt động thƣơng mại xã hội Hiện nay, 42% ngƣời sử dụng phƣơng tiện truyền thông xã hội làm nghiên cứu các sản phẩm mà họ muốn mua trên các mạng xã hội đặc biệt là facebook bởi vì tỷ lệ các nhấp chuột thông qua đƣờng facebook đạt tới 6,5% trong khi các hình thức khác trong việc nỗ lực marketing trực tuyến nhƣ banner quảng cáo nếu đƣợc xem là thành công chỉ có 2% tỷ lệ Bên cạnh đó báo cáo của eConsultancy cho biết 90% khách hàng tin tƣởng lời giới thiệu của những ngƣời họ đã biết, và những nhà bán lẻ trên Facebook gần đây đã thông báo 67% khách hàng dành nhiều thời gian hơn cho mua sắm sau khi nghe lời khuyên của những ngƣời bạn, những cộng đồng trên mạng. Chính vì vậy trong tƣơng lai, với sự ra đời và phát triển của nhiều trang mạng xã hội khác nhƣ twitter, Instagrams, Google+,… xu hƣớng thƣơng mại xã hội cũng mở rộng theo.",
+        "Summary": "Chính vì vậy, cuộc sống của con ngời ngày càng gắn chặt với chúng, nó đa nó trở thành xu hớng mua bán phổ biến trên toàn cầu.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt gần như hoàn toàn trung thực. Tuy nhiên, có một phần nhỏ bị lược bỏ khiến câu văn trở nên cụt ngủn và khó hiểu. Cụ thể, câu 'Chính vì vậy, cuộc sống của con ngời ngày càng gắn chặt với chúng, nó đa nó trở thành xu hớng mua bán phổ biến trên toàn cầu' thiếu thông tin về việc 'chúng' là gì (điện thoại di động) và thiếu liên kết logic giữa hai vế."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc nhưng chưa kết nối tốt giữa các ý. Câu văn bị cắt xén khiến ý nghĩa không rõ ràng và khó hiểu. Cần thêm thông tin để làm rõ mối liên hệ giữa việc cuộc sống con người gắn chặt với điện thoại và xu hướng mua bán trực tuyến."
+            },
+            "Tính liên quan": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một vài chi tiết không cần thiết và bỏ sót ý chính. Việc giữ lại cụm từ 'Chính vì vậy' khi đã lược bỏ nhiều thông tin phía trước khiến nó trở nên thừa thãi. Ý chính về sự phát triển của thương mại điện tử trên di động và thương mại xã hội chưa được thể hiện rõ ràng."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt còn sơ sài và chưa đạt yêu cầu. Cần bổ sung thêm thông tin để làm rõ ý chính và đảm bảo tính mạch lạc. Nên tập trung vào việc tóm tắt các xu hướng thương mại điện tử trên di động và thương mại xã hội, đồng thời loại bỏ những chi tiết không cần thiết."
+            }
+        }
+    },
+    {
+        "Index": "00105",
+        "Article": "Bộ điều phối có ảnh hưởng lớn tới hiệu suất máy tính. Nếu bộ điều phối cấp phát CPU ngay cho tiến trình sẵn sàng thực thi, tiến trình sẽ tốn ít thời gian nằm chờ ở hàng đợi và được sử dụng CPU ngay khi cần thiết. Khi đó, hiệu suất chỉ phụ thuộc vào tốc độ phần cứng máy tính. Ngược lại, nếu tiến trình bị \"bỏ quên\" trong hàng đợi, khoảng thời gian tiến trình nằm tại hàng đợi lớn hơn rất nhiều so với khoảng thời gian sử dụng CPU. Hiệu suất cũng bị tác động bởi thời gian thực hiện chuyển ngữ cảnh. Chi phí phụ trội này lại bị ảnh hưởng bởi phần cứng. Một nhân tố khác ảnh hưởng đến hiệu suất là chính sách điều phối - xác định thời gian tiến trình đợi để được sử dụng CPU khi tiến trình đã ở trạng thái sẵn sàng. So với yếu tố thời gian chuyển ngữ cảnh, yếu tố về chính sách ảnh hưởng tới hiệu suất nhiều hơn. Ở đây chúng ta xét ảnh hưởng của điều phối tới hiệu suất tổng thể hệ thống. Thông thường, tại một thời điểm có một vài tiến trình sẵn sàng thực thi. Khi nào bộ điều vận chọn tiến trình được thực thi kế tiếp? Tiêu chí nào được sử dụng trong quá trình lựa chọn? Tiến trình mãi mãi bị \"bỏ quên\" trong hàng đợi sẽ không bao giờ sử dụng được CPU để hoàn thành công việc của mình, hiện tượng này gọi là \"chết đói\". Nếu tiến trình được lựa chọn ngay khi sẵn sàng, khi đó thời gian thực thi thực sự của tiến trình sẽ liệm cận với tốc độ phần cứng. Phương pháp và chính sách điều phối sẽ định ra tiêu chí lựa chọn tiến trình thực thi kế tiếp. Các cơ chế trình bày ở đây được sử dụng để cài đặt một phương pháp đã được người quản trị hoặc người thiết kế HĐH lựa chọn. Có những phương pháp tập trung vào hiệu suất hệ thống tổng thể, có phương pháp mong muốn chia sẻ công bằng CPU giữa các tiến trình, thậm chí có phương pháp cố gắng tối ưu hiệu suất của một lớp tiến trình cụ thể. Nói chung, hiệu suất sẽ quyết định lựa chọn phương pháp điều phối phù hợp.",
+        "Summary": "\"Bộ điều phối ảnh hưởng đến hiệu suất máy tính, nếu cấp phát CPU ngay tiến trình sẵn sàng, tiến trình sẽ tốn ít thời gian chờ đợi và được sử dụng CPU ngay khi cần thiết. Ngoài ra, chính sách điều phối ảnh hưởng đến hiệu suất tổng thể hệ thống, trong đó có việc lựa chọn tiến trình thực thi kế tiếp, với các cơ chế như tập trung vào hiệu suất hệ thống tổng thể, mong muốn chia sẻ công bằng CPU, thậm chí cố gắng tối ưu hiệu suất một lớp tiến trình cụ thể.\"",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều có thể tìm thấy trong văn bản gốc và không bị diễn giải sai lệch."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày rõ ràng và có sự liên kết nhất định. Tuy nhiên, có thể cải thiện bằng cách sử dụng các từ nối để tăng tính trôi chảy giữa các câu."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại các ý quan trọng nhất từ văn bản gốc, loại bỏ các chi tiết không cần thiết."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, đảm bảo tính trung thực và liên quan. Tính mạch lạc ở mức khá, có thể cải thiện thêm bằng cách sử dụng các từ nối để tăng tính trôi chảy. Nhìn chung, bản tóm tắt đã làm tốt việc cô đọng thông tin quan trọng từ văn bản gốc."
+            }
+        }
+    },
+    {
+        "Index": "00106",
+        "Article": "Các dạng còn lại không có khả năng tự lây nhiễm. Việc phân loại các phần mềm độc hại kể trên mang tính chất tương đối do hiện nay, có một số phần mềm độc hại có các đặc tính của cả Vi rút, Sâu và Phần mềm gián điệp. Hình 2.33. Các dạng phần mềm độc hại Logic bomb (Bom lô gíc) là các đoạn mã độc thường được “nhúng” vào các chương trình bình thường và thường hẹn giờ để “phát nổ” trong một số điều kiện cụ thể. Điều kiện để bom “phát nổ” có thể là sự xuất hiện hoặc biến mất của các file cụ thể, một thời điểm cụ thể, hoặc một ngày trong tuần. Khi “phát nổ” bom logic có thể xoá dữ liệu, file, Thực tế đã ghi nhận quả bom logic do Tim Lloyd cài lại đã “phát nổ” tại công ty Omega Engineering vào ngày 30/7/1996, 20 ngày sau khi Tim Lloyd bị sa thải. Bom lô gíc này đã xoá sạch các bản thiết kế và các chương trình, gây thiệt hại 10 triệu USD cho công ty. Bản thân Tim Lloyd bị phạt 2 triệu USD và 41 tháng tù. Trojan horse lấy tên theo tích “Con ngựa thành Tơ roa”, là chương trình chứa mã độc, thường giả danh những chương trình có ích, nhằm lừa người dùng kích hoạt chúng. Trojan horse thường được sử dụng để thực thi gián tiếp các tác vụ, mà tác giả của chúng không thể thực hiện trực tiếp do không có quyền truy nhập. Chẳng hạn, trong một hệ thống nhiều người dùng, một người dùng (kẻ tấn công) có thể tạo ra một trojan đội lốt một chương trình hữu ích đặt ở thư mục chung. Khi trojan này được thực thi bởi một người dùng khác, nó sẽ thay đổi quyền truy nhập các file và thư mục của người dùng đó, cho phép tất cả người dùng (trong đó có kẻ tấn công) truy nhập vào các file của người Back door (Cửa hậu) thường được các lập trình viên tạo ra, dùng để gỡ rối và kiểm thử chương trình trong quá trình phát triển.",
+        "Summary": "Các dạng phần mềm độc hại Logic bomb là các đoạn mã độc thường được nhúng vào các chương trình bình thường và thường hẹn giờ để phát nổ trong một số điều kiện cụ thể. Trojan horse lấy tên theo tích \"Con ngựa thành Tơ roa\", là chương trình chứa mã độc, thường giả danh những chương trình hữu ích, nhằm lừa người dùng kích hoạt chúng.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Tất cả thông tin đều được lấy từ văn bản gốc và không có sự sai lệch hoặc thêm thông tin mới."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các câu được trình bày rõ ràng và logic, dễ hiểu."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ bao gồm các ý chính về Logic bomb và Trojan horse từ văn bản gốc, loại bỏ các chi tiết không cần thiết."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, trung thực, mạch lạc và liên quan. Không có điểm nào cần cải thiện."
+            }
+        }
+    },
+    {
+        "Index": "00107",
+        "Article": "Thẻ thông minh (Smart Card), thẻ gắn chip, hay thẻ tích hợp vi mạch (integrated circuit card -ICC) là loại thẻ bỏ túi thường có kích thước của thẻ tín dụng, bên trong chứa một mạch tích hợp có khả năng lưu trữ và xử lý thông tin. Nó có thể đóng vai trò như thẻ căn cước, thực hiện việc xác thực thông tin, lưu trữ dữ liệu hay dùng trong các ứng dụng thẻ. Thẻ thông minh được chia làm 2 loại chính như sau:\n - Thẻ thông minh có tiếp xúc: Loại thẻ thông minh có tiếp xúc có một diện tích tiếp xúc, bao gồm một số tiếp điểm mạ vàng, và có diện tích khoảng 1 cm vuông. Khi được đưa vào máy đọc, con chip trên thẻ sẽ giao tiếp với các tiếp điểm điện tử và cho phép máy đọc thông tin từ chip và viết thông tin lên nó. \n - Thẻ thông minh không tiếp xúc: Đây là loại thẻ mà chip trên nó liên lạc với máy đọc thẻ thông qua công nghệ cảm ứng RFID (với tốc độ dữ liệu từ 106 đến 848 kbit/s). \n Một số chức năng và vai trò của thẻ thông minh trong vấn đề xác thực và bảo mật thông tin: \n - Cho phép thực hiện các giao dịch kinh doanh một cách hiệu quả theo một cách chuẩn mực, linh hoạt và an ninh mà trong đó con người ít phải can thiệp vào. \n - Giúp thực hiện việc kiểm tra và xác nhận chặt chẽ mà không phải dùng thêm các công cụ khác như mật khẩu…Chính vì thế, có thể thực hiện hệ thống dùng cho việc đăng nhập sử dụng máy tính, máy tính xách tay, dữ liệu bảo mật hoặc các môi trường kế hoạch sử dụng tài nguyên của công ty như SAP, v.v.. với thẻ thông minh là phương tiện kiểm tra và xác nhận duy nhất. \n Ngoài ra, thẻ thông minh cung cấp một số tính năng có thể được sử dụng để cung cấp hoặc tăng cường bảo vệ quyền riêng tư trong hệ thống. Trong bài giảng chỉ liệt kê một số tính năng quan trọng của thẻ thông minh. Chi tiết về những tính năng này và làm thế nào thực hiện được các chức năng này, có thể tham khảo trong các tài liệu tham khảo khác. Một số tính năng cụ thể như sau: Chứng thực; An toàn dữ liệu lưu trữ; mã hóa; Bảo mật thiết bị; Thông tin liên lạc an toàn; Sinh trắc học; Chứng chỉ….",
+        "Summary": "Thẻ thông minh (Smart Card) là thẻ gắn chip, có khả năng lưu trữ và xử lý thông tin, được chia thành hai loại chính: có tiếp xúc (có diện tích tiếp xúc khoảng 1 cm vuông) và không tiếp xúc (có chip cảm ứng RFID). Thẻ thông minh có tiếp xúc cho phép giao dịch linh hoạt, dễ dàng kiểm tra và bảo mật thông tin mà không cần mật khẩu. Thẻ thông minh có tiếp xúc cho phép liên lạc với máy đọc qua công nghệ RFID, cho phép kiểm tra và xác nhận chặt chẽ mà không phải dùng mật khẩu.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Cụ thể, câu 'Thẻ thông minh có tiếp xúc cho phép giao dịch linh hoạt, dễ dàng kiểm tra và bảo mật thông tin mà không cần mật khẩu' gộp chung thông tin từ phần 'Một số chức năng và vai trò của thẻ thông minh' vào phần mô tả thẻ có tiếp xúc, gây hiểu lầm rằng chỉ thẻ có tiếp xúc mới có chức năng này. Tương tự, câu 'Thẻ thông minh có tiếp xúc cho phép liên lạc với máy đọc qua công nghệ RFID, cho phép kiểm tra và xác nhận chặt chẽ mà không phải dùng mật khẩu' lại gán đặc điểm của thẻ không tiếp xúc (RFID) cho thẻ có tiếp xúc, và lặp lại ý về kiểm tra xác nhận không cần mật khẩu."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc ở phần đầu khi giới thiệu về thẻ thông minh và phân loại. Tuy nhiên, phần sau bị lặp ý và gán ghép thông tin không chính xác giữa hai loại thẻ, làm giảm tính mạch lạc tổng thể."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt đã chọn lọc được các ý chính về định nghĩa, phân loại thẻ thông minh. Tuy nhiên, việc đưa thông tin chi tiết về chức năng của thẻ (giao dịch linh hoạt, kiểm tra bảo mật không cần mật khẩu) vào phần mô tả từng loại thẻ làm mất đi tính khái quát và có phần lan man."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức trung bình. Điểm mạnh là đã nắm bắt được định nghĩa và phân loại chính của thẻ thông minh. Tuy nhiên, cần cải thiện tính chính xác bằng cách đối chiếu kỹ hơn với văn bản gốc, tránh gán ghép thông tin sai lệch giữa các loại thẻ. Đồng thời, cần loại bỏ sự lặp ý và tập trung vào các ý chính, khái quát hơn để tăng tính liên quan và mạch lạc."
+            }
+        }
+    },
+    {
+        "Index": "00108",
+        "Article": "Khi nào nên cho một lớp là lớp độc lập, lớp con, lớp trừu tượng, hay nên biến nó thành interface? • Một lớp nên là lớp độc lập, nghĩa là nó không thừa kế lớp nào (ngoại trừ Object) nếu nó không thỏa mãn kiểm tra IS-A đối với bất cứ loại nào khác. • Một lớp nên là lớp con nếu ta cần cho nó làm một phiên bản chuyên biệt hơn của một lớp khác và cần cài đè hành vi có sẵn hoặc bổ sung hành vi mới. • Một lớp nên là lớp cha nếu ta muốn định nghĩa một khuôn mẫu cho một nhóm các lớp con, và ta có một chút mã cài đặt mà tất cả các lớp con kia có thể sử dụng. Cho lớp đó làm lớp trừu tượng nếu ta muốn đảm bảo rằng không ai được tạo đối tượng thuộc lớp đó. • Dùng một interface nếu ta muốn định nghĩa một vai trò mà các lớp khác có thể nhận, bất kể các lớp đó thuộc cây thừa kế nào. Những điểm quan trọng: • Khi muốn cấm tạo đối tượng từ một lớp, ta dùng từ khóa abstract tại định nghĩa lớp để tuyên bố lớp đó là lớp trừu tượng. • Một lớp trừu tượng có thể có các phương thức trừu tượng cũng như không trừu tượng. • Nếu một lớp có dù chỉ một phương thức trừu tượng, lớp đó buộc phải là lớp trừu tượng. • Một phương thức trừu tượng không có thân, khai báo phương thức đó kết thúc bằng dấu chấm phảy. • Một lớp cụ thể phải cài đặt hoặc được thừa kế cài đặt của tất cả các phương thức trừu tượng. • Mỗi lớp Java đều là lớp con trực tiếp hoặc gián tiếp của lớp Object. • Nếu ta dùng một tham chiếu để gọi phương thức, tham chiếu đó được khai báo thuộc lớp gì hay interface gì thì ta chỉ được gọi các phương thức có trong lớp đó hoặc interface đó, bất kể đối tượng mà tham chiếu đó đang chiếu tới là đối tượng thuộc lớp nào. • Một biến tham chiếu lớp cha có thể được gán giá trị là tham chiếu kiểu lớp con bất kì mà không cần đổi kiểu. Có thể dùng phép đổi kiểu để gán giá trị là tham chiếu kiểu lớp cha cho một biến tham chiếu kiểu lớp con, tuy nhiên khi chạy chương trình, phép đổi kiểu đó sẽ thất bại nếu đối tượng đang được chiếu tới không thuộc kiểu tương thích với phép đổi kiểu. • Java không hỗ trợ đa thừa kế do vấn đề Hình thoi. Java chỉ cho phép mỗi lớp chỉ có duy nhất một lớp cha. • Một interface tương tự với một lớp thuần túy trừu tượng. Nó chỉ định nghĩa các phương thức trừu tượng. • Một lớp có thể cài đặt nhiều interface. • Lớp nào cài đặt một interface thì phải cài tất cả các phương thức của interface đó, do tất cả các phương thức interface đều là các phương thức trừu tượng public.",
+        "Summary": "Một lớp nên là lớp độc lập, lớp con, lớp trừu tượng, và interface, nếu cần thiết để định nghĩa khuôn mẫu hoặc bổ sung hành vi mới. Lớp con nên là lớp con nếu cần định nghĩa khuôn mẫu hoặc mã cài đặt, và interface nếu định nghĩa vai trò cho các lớp khác. Lớp trừu tượng có thể có phương thức trừu tượng, và lớp cha có thể được gán giá trị là phương thức trừu tượng, và lớp con phải được thừa kế tất cả phương thức trừu tượng. Java không hỗ trợ đa thừa kế do không hỗ trợ đa thừa kế do không hỗ trợ đa thừa kế.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Ví dụ, việc gộp chung các điều kiện sử dụng lớp độc lập, lớp con, lớp trừu tượng và interface thành một câu chung chung làm mất đi sự rõ ràng và chính xác của từng trường hợp. Câu 'Lớp cha có thể được gán giá trị là phương thức trừu tượng' là sai lệch so với ý 'Một biến tham chiếu lớp cha có thể được gán giá trị là tham chiếu kiểu lớp con'. Ngoài ra, việc lặp lại 'Java không hỗ trợ đa thừa kế do không hỗ trợ đa thừa kế do không hỗ trợ đa thừa kế' là một lỗi rõ ràng."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số chỗ thiếu mạch lạc. Các ý tưởng không được liên kết một cách rõ ràng, và việc gộp chung nhiều khái niệm vào một câu khiến cho người đọc khó nắm bắt được ý chính. Ví dụ, câu đầu tiên liệt kê các loại lớp nhưng không giải thích rõ khi nào nên sử dụng loại nào."
+            },
+            "Tính liên quan": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt bỏ qua nhiều ý quan trọng trong văn bản gốc, đặc biệt là các quy tắc và ràng buộc liên quan đến lớp trừu tượng, interface và tính đa hình. Việc tập trung quá nhiều vào việc định nghĩa các loại lớp mà bỏ qua các chi tiết quan trọng khác làm giảm giá trị của bản tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt cần được cải thiện về cả tính trung thực, tính mạch lạc và tính liên quan. Cần đảm bảo rằng mọi thông tin đều chính xác và phù hợp với văn bản gốc, các ý tưởng được trình bày một cách rõ ràng và logic, và chỉ bao gồm những ý quan trọng nhất. Nên tập trung vào việc tóm tắt các quy tắc và ràng buộc quan trọng, thay vì chỉ liệt kê các loại lớp một cách chung chung. Cần loại bỏ các thông tin bị lặp lại."
+            }
+        }
+    },
+    {
+        "Index": "00109",
+        "Article": "Năng suất cũng sẽ đƣợc cải thiện do các doanh nghiệp bổ sung và hỗ trợ lực lƣợng lao động hiện có của họ bằng các công nghệ TTNT. Nó sẽ yêu cầu đầu tƣ vào phần mềm, hệ thống và máy móc dựa trên trí thông minh đƣợc hỗ trợ, tự chủ và tăng cƣờng; điều này sẽ không chỉ cho phép lực lƣợng lao động thực hiện nhiệm vụ của mình tốt hơn và hiệu quả hơn mà còn giải phóng thời gian cho phép lực lƣợng này tập trung vào các hoạt động kích thích hơn và có giá trị gia tăng cao hơn. Tự động hóa sẽ loại bỏ một phần nhu cầu đầu vào lao động, dẫn đến tăng năng suất nói chung. Cuối cùng, sự sẵn có của các sản phẩm và dịch vụ đƣợc cá nhân hóa và chất lƣợng cao hơn đƣợc nâng cao bởi TTNT - sẽ trở nên quan trọng hơn, vì tính khả dụng này có khả năng thúc đẩy nhu cầu của ngƣời tiêu dùng, từ đó tạo ra nhiều dữ a) Ứng dụng TTNT trong sản xuất TTNT là một trong những nền tảng của quá trình số hóa ngành công nghiệp đang phát triển . Các công nghệ làm nền tảng cho quá trình này - chẳng hạn nhƣ IoT, 5G, điện toán đám mây, phân tích dữ liệu lớn, cảm biến thông minh, thực tế tăng cƣờng, in 3D và robot - có khả năng biến sản xuất thành một hệ thống vật lý mạng duy nhất, trong đó công nghệ kỹ thuật số, internet và sản xuất hợp nhất trong một. Trong các nhà máy thông minh của tƣơng lai, các quy trình sản xuất sẽ đƣợc kết nối và các giải pháp TTNT sẽ là nền tảng trong việc liên kết các máy móc, giao diện và các thành phần (ví dụ: sử dụng nhận diện khung cảnh). Một lƣợng lớn dữ liệu sẽ đƣợc thu thập và đƣa vào các thiết bị TTNT, từ đó sẽ tối ƣu hóa quy trình sản xuất. OECD cho rằng việc sử dụng TTNT có thể đƣợc 'áp dụng cho hầu hết các hoạt động công nghiệp từ việc tối ƣu hóa các hệ thống nhiều máy móc đến tăng cƣờng nghiên cứu công nghiệp'. Việc triển khai TTNT trong sản xuất có thể sẽ tăng lên theo thời gian, do sự phát triển của các quy trình học tập tự động.",
+        "Summary": "Tóm tắt Năng suất cũng sẽ đợc cải thiện do các doanh nghiệp bổ sung và hỗ trợ lực lợng lao động hiện có của họ bằng các công nghệ TTNT. Nó sẽ yêu cầu đầu t vào phần mềm, hệ thống và máy móc dựa trên trí thông minh đợc hỗ trợ, tự chủ và tăng cờng; điều này sẽ không chỉ cho phép lực lợng lao động thực hiện nhiệm vụ của mình tốt hơn và hiệu quả hơn mà còn giải phóng thời gian cho phép lực lợng này tập trung vào các hoạt động kích thích hơn và có giá trị gia tăng cao hơn",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều xuất hiện trong văn bản gốc và không bị thay đổi ý nghĩa."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt mạch lạc, rõ ràng và dễ hiểu. Các ý được trình bày một cách logic và có sự liên kết chặt chẽ."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt liên quan đến nội dung chính của văn bản gốc. Tuy nhiên, bản tóm tắt tập trung vào một phần của văn bản gốc, bỏ qua phần ứng dụng TTNT trong sản xuất. Mặc dù phần được tóm tắt là quan trọng, nhưng việc bỏ qua ứng dụng TTNT trong sản xuất làm giảm tính toàn diện của bản tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng khá tốt về mặt trung thực và mạch lạc. Tuy nhiên, để cải thiện, bản tóm tắt nên bao gồm thêm thông tin về ứng dụng của TTNT trong sản xuất để đảm bảo tính toàn diện và bao quát hơn."
+            }
+        }
+    },
+    {
+        "Index": "00110",
+        "Article": "Quản lý an toàn thay đổi hàng năm do các máy tính, môi trường mạng và các ứng dụng xử lý thông tin thay đổi. Máy tính cá nhân ngày trở nên mạnh hơn, môi trường mạng kết nối càng rộng rãi hơn, người dùng có nhiều thông tin về hoạt động của hệ thống máy tính hơn, thông tin phân tán ra khắp các thiết bị khác nhau trong mạng. Việc này khiến cho vấn đề quản lý an toàn thông tin phức tạp và nghiêm trọng hơn. Mặt khác, thông tin và dữ liệu trở nên quan trọng hơn cả tài sản vật lý khác như thiết bị hay nhà xưởng. Quản lý an toàn bao gồm tất cả các hoạt động cần thiết để giữ cho một chương trình an toàn hoạt động và phát triển. Việc này bao gồm quản lý rủi ro, lập tài liệu, quản lý và triển khai các biện pháp kiểm soát an toàn, quy trình và thủ tục, an toàn nhân sự, kiểm toán và đào tạo nâng cao nhận thức an toàn liên tục. Việc phân tích rủi ro xác định các tài sản quan trọng, phát hiện ra các mối đe dọa, xếp chúng vào nguy cơ và được sử dụng để ước tính thiệt hại có thể và tổn thất tiềm ẩn mà cơ quan/tổ chức có thể chịu đựng. Phân tích rủi ro giúp quản lý xây dựng ngân sách với các quỹ cần thiết để bảo vệ tài sản được ghi nhận khỏi các mối đe dọa được xác định và phát triển các chính sách an toàn giúp định hướng cho các hoạt động an ninh. Các biện pháp bảo vệ được xác định, triển khai và duy trì để giữ rủi ro bảo mật của tổ chức ở mức có thể chấp nhận được. Việc giáo dục an ninh và nhận thức đưa thông tin này đến từng nhân viên trong cơ quan/tổ chức để mọi người được thông tin đầy đủ và có thể dễ dàng làm việc hơn hướng tới cùng mục tiêu an toàn.",
+        "Summary": "Quản lý an toàn thay đổi do các máy tính và môi trường mạng thay đổi, trong đó thông tin và dữ liệu quan trọng hơn tài sản vật lý. Quản lý an toàn bao gồm quản lý rủi ro, lập tài liệu, triển khai các biện pháp kiểm soát an toàn, quy trình và thủ tục, đồng thời xây dựng chính sách an toàn, giáo dục an ninh và nhận thức để đảm bảo an toàn cho tổ chức.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các ý được trình bày rõ ràng và có sự liên kết logic với nhau, giúp người đọc dễ dàng nắm bắt được nội dung chính."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại các ý quan trọng từ văn bản gốc, loại bỏ các chi tiết không cần thiết, đảm bảo tính ngắn gọn và tập trung vào trọng tâm."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, đáp ứng đầy đủ các tiêu chí về tính trung thực, mạch lạc và liên quan. Văn bản tóm tắt đã làm nổi bật được những ý chính của văn bản gốc một cách ngắn gọn và dễ hiểu."
+            }
+        }
+    },
+    {
+        "Index": "00111",
+        "Article": "2.1.3.3 Thẻ thông minh\n ü Khái niệm\n Thẻ thông minh là loại thẻ có kích thước như một chiếc thẻ tín dụng thông thường\n nhưng trên đó có gắn một con chip – vi mạch điện tử. Vi mạch điện tử này bao gồm một thiết\n bị ra vào đặc trưng, một bộ vi xử lý, một bộ nhớ. Tất cả những thiết bị này sẽ giúp lưu trữ rất\n nhiều những loại thông tin khác nhau từ các thông tin như số thẻ tín dụng, hồ sơ sức khoẻ cá\n nhân, bảo hiểm y tế, hồ sơ công tác, bằng lái xe… với dung lượng lớn gấp hàng trăm lần so32\n với dung lượng của các thông tin có thể lưu trữ trên một thẻ tín dụng thông thường. Thẻ thông\n minh có khả năng lưu trữ và xử lý thông tin với độ an toàn cao nên được sử dụng trong rất\n nhiều ngành như ngân hàng, tài chính, y tế hay bưu chính viễn thông. Hiện nay, thẻ thông\n minh được sử dụng tại rất nhiều nước. Công nghệ thẻ thông minh được khởi đầu tại Pháp\n nhưng ít thông dụng hơn ở Mỹ, nơi mà người ta hay sử dụng thẻ tín dụng là chủ yếu ü Phân loại\n Dựa trên phương thức đọc thẻ, người ta chia thẻ thông minh thành hai loại cơ bản:\n Thẻ tiếp xúc vật lý (thẻ có khả năng liên kết) – Contact smart card\n Thẻ tiếp xúc vật lý là thẻ thông minh mà trên mạch vi xử lý có gắn một miếng kim\n loại nhỏ mạ vàng. Thẻ sẽ được kích hoạt khi đưa thẻ này vào thiết bị đọc thẻ. Khi đưa thẻ tiếp\n xúc với thiết bị đọc thẻ, thông tin dữ liệu trên thẻ sẽ được truyền từ chip qua miếng kim loại\n nhỏ mạ vàng sang thiết bị đọc thẻ.\n Để đọc, ghi thông tin, bề mặt con chip phải tiếp xúc trực tiếp với đầu đọc thẻ. Loại thẻ\n này được sử dụng nhiều trong tài chính (công nghệ của thẻ tiếp xúc phi vật lý thường được sử\n dụng để tạo ra thẻ ghi nợ và thẻ tín dụng). Truyền thông (sim điện thoại) vì ưu điểm giá cả\n không quá đắt, đáp ứng nhiều tiêu chuẩn về công nghệ, độ bảo mật cao. Khi được đưa\n vào máy đọc, chip trên thẻ sẽ giao tiếp với các tiếp điểm điện tử cho phép đọc các thông tin từ\n chip và viết thông tin lên nó. Thẻ thông minh loại này không có pin, năng lượng làm việc sẽ\n được cấp trực tiếp từ máy đọc thẻ.",
+        "Summary": "Thẻ thông minh là loại thẻ có kích thước như thẻ tín dụng thông thường nhưng trên đó có gắn một con chip điện tử, lưu trữ thông tin với dung lượng lớn gấp hàng trăm lần. Thẻ thông minh được sử dụng trong nhiều ngành như ngân hàng, tài chính, y tế, bưu chính viễn thông. Thẻ tiếp xúc vật lý (thẻ có khả năng liên kết) và Contact smart card (thẻ có khả năng liên kết) được chia thành hai loại cơ bản: tiếp xúc vật lý (thẻ có khả năng liên kết) và Contact smart card. Thẻ tiếp xúc vật lý (có khả",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, tuy nhiên có một vài chi tiết nhỏ bị lặp lại và diễn đạt chưa chính xác. Ví dụ, câu cuối cùng 'Thẻ tiếp xúc vật lý (thẻ có khả năng liên kết) và Contact smart card (thẻ có khả năng liên kết) được chia thành hai loại cơ bản: tiếp xúc vật lý (thẻ có khả năng liên kết) và Contact smart card' bị lặp lại thông tin và diễn đạt không rõ ràng so với văn bản gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, nhưng vẫn còn một số chỗ chưa kết nối tốt. Đặc biệt, phần phân loại thẻ thông minh bị lặp lại và gây khó hiểu. Cần diễn đạt lại để làm rõ mối quan hệ giữa các loại thẻ."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm định nghĩa, ứng dụng và phân loại thẻ thông minh. Tuy nhiên, việc lặp lại thông tin ở phần phân loại làm giảm tính liên quan và gây rối cho người đọc."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được các ý chính của văn bản gốc. Tuy nhiên, cần cải thiện về tính mạch lạc và tránh lặp lại thông tin, đặc biệt là ở phần phân loại thẻ thông minh. Nên diễn đạt lại câu cuối cùng để rõ ràng và chính xác hơn."
+            }
+        }
+    },
+    {
+        "Index": "00112",
+        "Article": "2.5 Hệ thống thanh toán séc điện tử\n 2.5.1 Khái niệm séc điện tử\n Séc là một tờ mệnh lệnh vô điều kiện của người chủ tài khoản ra lệnh cho ngân hàng\n trích từ tài khoản của mình để trả cho người có tên trong séc (payee), hoặc trả theo lệnh của\n người ấy hoặc trả cho người cầm séc (bearer) một số tiền nhất định bằng tiền mặt hay chuyển\n khoản.\n Phương thức thanh toán bằng séc cũng chiếm tới gần 10% tổng các giao dịch trực\n tuyến trên thế giới. Tuy phương thức này trước đây khá phức tạp (sau khi giao dịch trực tuyến\n được thực hiện, người mua phải ra khỏi mạng và gửi séc qua thư đến cho người bán), tuy\n nhiên nhiều khách hàng vẫn sẵn sàng chấp nhận sự phức tạp đó để được thực hiện thanh toán\n bằng séc. Để thoả mãn mong muốn đó của khách hàng, một giải pháp mới cho phương thức\n thanh toán bằng séc ra đời, đó là việc sử dụng “séc điện tử”.\n Séc điện tử là phiên bản điện tử có giá trị pháp lý đại diện cho một tấm séc giấy. Séc\n điện tử là cơ chế thanh toán điện tử đầu tiên được kho bạc Mỹ lựa chọn để tiến hành các\n khoản thanh toán có giá trị lớn trên mạng Internet.\n Về mặt nguyên tắc, hệ thống thanh toán séc điện tử được xây dựng trên các nguyên tắc\n của hệ thống thanh toán séc giấy, tuy nhiên được điện tử hóa toàn bộ quy trình thanh toán.\n Hiện nay có rất nhiều tổ chức cung cấp dịch vụ thanh toán séc điện tử: Authorize.net,\n Paysimple.com, Checkpay.us. Ở một số quốc gia phát triển, người ta hay đồng nhất các thuật\n ngữ: electronic checks, direct debit, or ACH transfer. Từ năm 2015, séc điện tử được coi là\n một hình thức thanh toán tiêu chuẩn, cùng với thẻ tín dụng hoặc những công cụ thanh toán\n của bên thứ ba.\n Tại Việt Nam, hình thức thanh toán bằng séc truyền thống chỉ chiếm khoảng 2% trong\n tổng thanh toán phi tiền mặt, trong đó chủ yếu là thanh toán giữa các doanh nghiệp. Hầu hết\n người dân vẫn e ngại thanh toán bằng séc, và tính đến thời điểm hiện tại cũng chưa có tổ chức\n nào cung cấp dịch vụ thanh toán séc điện tử.\n Thanh toán bằng séc điện tử có rất nhiều lợi ích:\n - Người bán cắt giảm được chi phí quản lý\n - Người bán nhận được tiền từ người mua nhanh hơn, an toàn hơn và không mất thời\n gian xử lý giấy tờ\n - Cải tiến hiệu quả quy trình chuyển tiền đối với cả người bán và tổ chức tài chính\n - Cung cấp thông tin chi tiết về việc mua hàng trên tài khoản của người mua\n - Không yêu cầu khách hàng tiết lộ các thông tin về tài khoản của mình cho các nhân\n khác trong quá trình giao dịch\n - Không yêu cầu khách hàng phải thường xuyên gửi các thông tin tài chính nhạy cảm\n trên web\n - Tiết kiệm so với thanh toán bằng thẻ tín dụng cho người bán\n - Nhanh và tiện lợi hơn so với séc giấy.",
+        "Summary": "\"Chúng ta có thể dễ dàng nhận biết séc là một tờ mệnh lệnh vô điều kiện, được sử dụng để trả tiền cho người có tên trong séc hoặc người cầm séc. Séc điện tử là phiên bản điện tử của séc giấy, được điện tử hóa toàn bộ quy trình thanh toán, và được sử dụng bởi các tổ chức như Authorize.net, Paysimple.com, Checkpay.us. Séc điện tử là phương thức thanh toán tiêu chuẩn, được điện tử hóa toàn bộ quy trình thanh toán, giúp người bán cắt giảm chi phí quản lý và người bán nhận được tiền.\"",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt khá trung thực, tuy nhiên có một vài chi tiết nhỏ có thể gây hiểu lầm. Ví dụ, câu 'Séc điện tử là phương thức thanh toán tiêu chuẩn' có thể hiểu là nó đã phổ biến rộng rãi, trong khi văn bản gốc chỉ nói nó được coi là một hình thức thanh toán tiêu chuẩn từ năm 2015 ở một số quốc gia. Ngoài ra, việc lặp lại 'được điện tử hóa toàn bộ quy trình thanh toán' có thể không cần thiết."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, các ý được trình bày theo một trình tự nhất định. Tuy nhiên, liên kết giữa các câu có thể được cải thiện để tạo sự trôi chảy hơn. Ví dụ, có thể thêm một vài từ nối để làm rõ mối quan hệ giữa các ý."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm định nghĩa séc, séc điện tử, và một số lợi ích của nó. Tuy nhiên, có thể lược bỏ bớt chi tiết không quá quan trọng để bản tóm tắt ngắn gọn và tập trung hơn vào những điểm cốt lõi."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được những ý chính của văn bản gốc. Tuy nhiên, cần chú ý hơn đến tính chính xác tuyệt đối của thông tin và cải thiện sự mạch lạc giữa các câu. Việc lược bỏ một số chi tiết thừa cũng sẽ giúp bản tóm tắt trở nên súc tích và hiệu quả hơn."
+            }
+        }
+    },
+    {
+        "Index": "00113",
+        "Article": "Trong những chương trước ta đã xem xét một số kỹ thuật giải quyết vấn đề và suy diễn. Đặc điểm chung của những kỹ thuật này là phương pháp giải quyết vấn đề cùng với tri thức được cung cấp cho chương trình máy tính từ trước và chương trình không thể thay đổi hoặc cải thiện hoạt động của mình dựa trên kinh nghiệm thu được trong quá trình làm việc sau đó. Trong chương này, ta sẽ xem xét các kỹ thuật học máy (machine learning), là kỹ thuật cho phép giải quyết vấn để hoặc ra quyết định dựa trên dữ liệu và kinh nghiệm. Học máy là khả năng của chương trình máy tính sử dụng kinh nghiệm, quan sát, hoặc dữ liệu trong quá khứ để cải thiện công việc của mình trong tương lai thay vì chỉ thực hiện theo đúng các quy tắc đã được lập trình sẵn. Chẳng hạn, máy tính có thể học cách dự đoán dựa trên các ví dụ, hay học cách tạo ra các hành vi phù hợp dựa trên quan sát trong quá khứ. Ví dụ: Xét một số ví dụ sau. Ví dụ thứ nhất là học cách đánh cờ. Chương trình có thể quan sát các ván cờ cùng với kết quả (thắng hay thua) để cải thiện khả năng chơi cờ và tăng số ván thắng trong tương lai. Trong trường hợp này, kinh nghiệm là các ván cờ trong quá khứ (có thể là ván cờ chương trình tự chơi với chính mình), được sử dụng để học cách làm tốt hơn công việc chơi cờ với tiêu chí đánh giá là số ván thắng. Ví dụ thứ hai là học nhận dạng các ký tự. Chương trình được cung cấp dữ liệu dưới dạng ảnh chụp các ký tự (chữ cái) cùng mã UNICODE của ký tự đó. Sau khi học, chương trình cần có khả năng nhận dạng các ảnh chụp ký tự mới, tức là xác định được mã UNICODE của các ảnh mới chụp ký tự đã được học. Tương tự quá trình học thông thường, một hệ thống học máy cần có khả năng ghi nhớ, thích nghi, và đặc biệt là tổng quát hóa. Tổng quát hóa là khả năng của hệ thống học máy ra quyết định chính xác trong các trường hợp mới, chưa gặp, dựa trên kinh nghiệm học được từ dữ liệu hoặc các quan sát trước đó.",
+        "Summary": "Trong chương này, ta sẽ xem xét các kỹ thuật học máy (machine learning), cho phép giải quyết vấn đề dựa trên dữ liệu và kinh nghiệm. Học máy giúp chương trình sử dụng kinh nghiệm, quan sát và dữ liệu trong quá khứ để cải thiện công việc trong tương lai. Học máy giúp chương trình sử dụng kinh nghiệm, quan sát và dữ liệu trong quá khứ để cải thiện công việc trong tương lai. Tổng quát hóa là khả năng ra quyết định chính xác trong các trường hợp mới, chưa gặp, dựa trên kinh nghiệm học được từ dữ liệu hoặc các quan sát trước đó.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, tuy nhiên có một câu bị lặp lại: \"Học máy giúp chương trình sử dụng kinh nghiệm, quan sát và dữ liệu trong quá khứ để cải thiện công việc trong tương lai.\" Câu này xuất hiện hai lần trong bản tóm tắt, trong khi chỉ có một lần trong văn bản gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày theo một trình tự logic, bắt đầu bằng việc giới thiệu về học máy, sau đó đến định nghĩa và cuối cùng là khái niệm tổng quát hóa. Tuy nhiên, việc lặp lại một câu làm giảm tính mạch lạc của văn bản."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm định nghĩa học máy và khái niệm tổng quát hóa. Tuy nhiên, việc lược bỏ các ví dụ minh họa (học đánh cờ, học nhận dạng ký tự) có thể làm giảm tính trực quan và dễ hiểu của bản tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được các ý chính của văn bản gốc. Tuy nhiên, cần loại bỏ câu bị lặp để cải thiện tính mạch lạc. Ngoài ra, cân nhắc giữ lại một trong các ví dụ minh họa để tăng tính trực quan cho bản tóm tắt."
+            }
+        }
+    },
+    {
+        "Index": "00114",
+        "Article": "NoSQL là một thuật ngữ nổi tiếng trong lĩnh vực công nghệ, có nghĩa là \"Not Relational SQL\" hoặc \"Not Only SQL\". Điều này xuất phát từ thực tế rằng trong kiến trúc Big Data, dữ liệu tồn tại dưới nhiều định dạng khác nhau, không chỉ giới hạn ở mô hình quan hệ truyền thống. Hệ quản trị cơ sở dữ liệu quan hệ (RDBMS) không đủ linh hoạt để xử lý tất cả các loại dữ liệu này. Do đó, nhiều công nghệ, kiến trúc và thuật toán mới đã được phát triển để có thể tiếp nhận và xử lý dữ liệu phi cấu trúc, bán cấu trúc hoặc có cấu trúc không đồng nhất. Những công nghệ này được gọi chung là NoSQL, giúp giải quyết các hạn chế của SQL truyền thống trong việc xử lý dữ liệu lớn. Big Data mang lại nhiều lợi ích quan trọng, đặc biệt là trong các lĩnh vực thương mại, tài chính và quản lý. Có bốn lợi ích chính mà Big Data có thể đem lại, bao gồm cắt giảm chi phí, giảm thời gian xử lý, tối ưu hóa sản phẩm và hỗ trợ con người đưa ra quyết định chính xác hơn. Chẳng hạn, trong lĩnh vực thương mại điện tử, các hệ thống phân tích dữ liệu lớn có thể đưa ra các gợi ý sản phẩm thông minh, giúp tăng trải nghiệm mua sắm của khách hàng. Khi người dùng tìm kiếm một sản phẩm như điện thoại trên các trang web như eBay hay Amazon, hệ thống sẽ tự động đề xuất các phụ kiện liên quan như ốp lưng, pin dự phòng. Tương tự, nếu khách hàng mua áo thun, hệ thống có thể gợi ý thêm quần jean hoặc dây nịt. Điều này giúp doanh nghiệp tối ưu hóa doanh thu, đồng thời mang lại trải nghiệm cá nhân hóa cho người dùng. NoSQL và Big Data đang ngày càng trở thành nền tảng quan trọng trong việc phát triển các hệ thống thông minh, giúp doanh nghiệp tận dụng hiệu quả nguồn dữ liệu khổng lồ trong thời đại số.",
+        "Summary": "NoSQL là thuật ngữ nổi tiếng trong lĩnh vực công nghệ, được sử dụng để xử lý dữ liệu phi cấu trúc, bán cấu trúc hoặc có cấu trúc không đồng nhất. Các công nghệ như NoSQL giúp giảm chi phí, tối ưu hóa sản phẩm và hỗ trợ con người đưa ra quyết định chính xác hơn. Big Data đang trở thành nền tảng quan trọng trong phát triển hệ thống thông minh, giúp doanh nghiệp tận dụng hiệu quả nguồn dữ liệu khổng lồ và tối ưu hóa doanh thu.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày rõ ràng và có sự liên kết nhất định. Tuy nhiên, có thể cải thiện bằng cách làm rõ hơn mối quan hệ giữa NoSQL và Big Data trong việc hỗ trợ các quyết định kinh doanh."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm định nghĩa NoSQL, lợi ích của Big Data và vai trò của chúng trong phát triển hệ thống thông minh. Tuy nhiên, có thể lược bỏ chi tiết về 'cấu trúc không đồng nhất' vì nó khá chuyên môn và không quá quan trọng trong bản tóm tắt chung."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng khá tốt, truyền tải được những ý chính của văn bản gốc một cách trung thực và mạch lạc. Điểm cần cải thiện là tăng cường tính liên kết giữa các ý và lược bỏ một vài chi tiết không quá quan trọng để bản tóm tắt súc tích hơn."
+            }
+        }
+    },
+    {
+        "Index": "00115",
+        "Article": "Khởi động một chương trình: Có nhiều cách để khởi động một chương trình từ Windows: chọn Start Menu -> Tên chương trình ứng dụng. Hoặc từ Search Box -> nhập tên chương trình -> click chọn chương trình từ danh sách tìm thấy Hoặc double click vào Shortcut (nếu có) để khởi động các chương trình. Để thoát khỏi chương trình ứng dụng: Nhấn tổ hợp phím Alt + F4, hoặc click vào nút Close, hoặc Chọn Tab File->Exit. • Tự động chạy ứng dụng khi khởi động Windows: Một số cần được tự khởi động ngay khi bắt đầu phiên làm việc với Windows. Để thực hiện điều này ta tạo Shortcut của chương trình đó trong mục Start up: Search Box -> nhập Startup Apps-> double click vào tên Startup để mở cửa sổ Startup. • Cửa sổ chương trình: Người sử dụng giao tiếp với các chương trình thông qua các cửa sổ, một cửa sổ chương trình gồm các thành phần sau: - Title bar: hiển thị tên chương trình - Toolbar: Chứa các lệnh thường sử dụng dưới dạng các công cụ. - Statusbar: Thanh trạng thái, hiển thị thông tin trong cửa sổ. - Scrollbar: Thanh cuộn, dùng để xem phần nội dung bị che khuất. - Các nút Minimize, Maximize, Close: Phóng to, thu nhỏ, đóng cửa sổ chương trình. - Path: Đường dẫn, dùng để di chuyển nhanh đến một thư mục hoặc một tệp tin. - Menu bar: Thanh menu, chứa các nút lệnh của chương trình. • Các thao tác trên một cửa sổ: - Di chuyển cửa sổ: kéo thanh Title để cửa sổ đến vị trí mới. - Thay đổi kích thước của cửa sổ: Di chuyển con trỏ chuột đến cạnh hoặc góc cửa sổ, khi con trỏ chuột biến thành hình mũi tên hai chiều thì drag cho đến khi đạt được kích thước mong muốn. - Phóng to cửa sổ ra toàn màn hình: click nút Maximize. - Phục hồi kích thước trước đó của cửa sổ: click nút Restore. - Thu nhỏ cửa sổ thành biểu tượng trên Taskbar: Click lên nút Minimize - Chuyển đổi giữa các cửa sổ của các ứng dụng đang mở: Để chuyển đổi giữa các ứng dụng nhấn tổ hợp phím Alt + Tab hoặc chọn ứng dụng tương ứng trên thanh Taskbar. • Sao chép dữ liệu giữa các ứng dụng: Trong Windows việc sao chép dữ liệu trong một ứng dụng hoặc giữa các ứng dụng được thực hiện thông qua bộ nhớ đệm (Clipboard). Tại một thời điểm, bộ nhớ đệm chỉ chứa một thông tin mới nhất. Khi một thông tin khác được đưa vào bộ nhớ đệm thì thông tin trước đó sẽ bị xoá. Khi thoát khỏi Windows thì nội dung trong bộ nhớ đệm cũng bị xoá. Các bước sao chép dữ liệu: − Chọn đối tượng cần sao chép. − Chọn Home->Copy (hoặc tổ hợp phím Ctrl + C). − Chọn vị trí cần chép tới. − Chọn Home->Paste (hoặc tổ hợp phím Ctrl + V) để chép dữ liệu từ Clipboard vào vị trí cần chép. • Tìm kiếm dữ liệu: Chức năng tìm kiếm trong Windows 10 giúp tìm hầu như tất cả những gì có trên PC của bạn một cách nhanh chóng và dễ dàng. Có nhiều cách để tìm kiếm, người dùng có thể sử dụng Search box ở Thanh Taskbar, Search box trong thư mục hay thư viện... • Tìm kiếm bằng Search box ở Thanh Taskbar: Click chuột vào Start button->Search và nhập từ hay bộ phận của từ cần tìm vào Search box. Kết quả sẽ được xuất trực tiếp lên khung kết quả tìm kiếm. • Tìm kiếm bằng Search box ở thư mục Mở ổ đĩa, thư mục hay thư viện nơi mà bạn muốn tìm kiếm, nhập vào Search box từ hay bộ phận của từ cần tìm. (có thể bổ sung điều kiện tìm bằng cách hiệu chỉnh trong công cụ hỗ trợ Search).",
+        "Summary": "\"Để khởi động một chương trình, có thể từ Start Menu hoặc Search Box, hoặc từ Search Box. Có nhiều cách khởi động chương trình từ Start Menu, hoặc từ Search Box. Có thể từ Start Menu, hoặc từ Search Box, hoặc từ Tab File->Exit. Cửa sổ chương trình bao gồm các thành phần: Title bar hiển thị tên chương trình, Statusbar, Scrollbar, Status Bar, Path, Path, và các nút Minimize, Maximize, Close, và Path đường dẫn. Cửa sổ chương trình giao tiếp với các ứng dụng đang mở,",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt chứa nhiều thông tin sai lệch và thiếu chính xác so với văn bản gốc. Ví dụ, việc lặp lại 'hoặc từ Search Box' nhiều lần trong phần khởi động chương trình là không chính xác và gây khó hiểu. Ngoài ra, việc liệt kê các thành phần của cửa sổ chương trình cũng không đầy đủ và có sự lặp lại ('Statusbar' được lặp lại). Cách thoát khỏi chương trình cũng được mô tả sai lệch. Phần 'Cửa sổ chương trình giao tiếp với các ứng dụng đang mở' không rõ nghĩa và không phản ánh đúng nội dung gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt thiếu mạch lạc, các ý không được liên kết logic với nhau. Câu cú lủng củng, rời rạc và khó hiểu. Việc lặp lại các cụm từ và liệt kê các thành phần một cách thiếu trật tự làm giảm tính mạch lạc của văn bản."
+            },
+            "Tính liên quan": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt bỏ qua nhiều ý chính quan trọng của văn bản gốc và tập trung vào một số chi tiết nhỏ một cách không cân xứng. Các thao tác trên cửa sổ, sao chép dữ liệu và tìm kiếm dữ liệu là những nội dung quan trọng nhưng lại bị bỏ qua hoàn toàn. Những chi tiết được giữ lại cũng không được trình bày một cách đầy đủ và chính xác."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng rất kém. Nó không trung thực, thiếu mạch lạc và không liên quan đến nội dung chính của văn bản gốc. Cần phải viết lại hoàn toàn bản tóm tắt này, tập trung vào việc nắm bắt các ý chính, trình bày chúng một cách rõ ràng và chính xác, đồng thời loại bỏ các thông tin sai lệch và không cần thiết."
+            }
+        }
+    },
+    {
+        "Index": "00116",
+        "Article": "Bảo mật Web server thương mại điều có cùng một dạng điều khiển truy nhập chống xâm phạm. Một số web server cung cấp hàng loạt các lựa chọn điều khiển truy nhập cho người quản trị như địa chỉ IP, tên máy khách, tập tin, thư mục, tên người dùng và nhóm người dùng. Cơ cấu bảo mật có thể nằm trong web server hoặc trong hệ điều hành hay các thành phần liên kết. Các web server xử lý thông tin mật giống như trong các ứng dụng thương mại điện tử cần thiết bảo mật giao tác. Với tính năng này, truyền thông trên mạng giữa khách hàng và máy chủ được mã hóa. Giao thức được sử dụng cho bảo mật gồm Secure Sockets Layer (SSL) và Secure HTTP (SHTTP). Giao thức được sử dụng nhiều nhất là SSL, mã hóa toàn bộ phiên giao tác khách hàng/chủ. SHTTP là loại hướng tập tin. Thay vì mã hóa toàn bộ giao tác, giao thức này mã hóa các văn bản Web, sử dụng cho cả máy khách và máy chủ. Tuy nhiên, việc mã hóa dữ liệu phải dựa trên sự nhất quán về thuật toán giữa máy chủ và máy khách. Lưu trữ và truy nhập cơ sở dữ liệu Một lĩnh vực mà các nhà cung cấp web server đang bắt đầu khai phá là các giao thức dữ liệu, văn bản web lưu trữ và truy nhập như thế nào. Phương pháp thông thường nhất là dữ liệu được lưu dưới dạng các tập tin riêng rẽ trên các máy chủ khác nhau. Tuy vậy, một vấn đề sẽ xuất hiện đối với các web server lớn bởi vì một số lớn tập tin tăng lên không ngừng làm cho máy chủ ngày càng khó khăn trong việc kết xuất dữ liệu. Lựa chọn cuối cùng Việc lập kế hoạch web server không kết thúc ở lựa chọn sản phẩm. Người quản trị mạng cần phải lưu tâm đến vấn đề trước khi cài đặt và cấu hình web server. Các vấn đề đó liên quan đến thiết kế mạng, độ tin cậy của máy và giá cả. Trước khi đưa vào sử dụng web server, người quản trị mạng cần đảm bảo kiến trúc hạ tầng cho việc xử lý giao dịch về web, chẳng hạn như dự tính lưu lượng yêu cầu tới, kích thước đường truyền, vị trí các bộ router và cấu hình của mạng nội bộ. Một vấn đề khó nhận ra nữa là các web server cần thiết phải có khả năng xử lý hoặc chịu các lỗi và tính dư thừa hay phân đoạn sản phẩm. Một cách để đảm bảo độ tin cậy máy chủ là sử dụng kỹ thuật gọi là DNS (Domain Name Server) trong đó có một máy chủ là ánh xạ dữ liệu của một máy chủ có địa chỉ IP khác. Nhưng cái khó là làm thế nào để đảm bảo tại mọi lúc hai máy chủ đều giống nhau. Hầu hết các sản phẩm web server đều có giá vài nghìn đôla. Nhưng thực tế việc này còn liên quan đến giá phát triển, bảo trì và điều hành hệ thống, nghĩa là, khả năng phát triển của nhà cung cấp web server, đội ngũ bảo trợ tại địa phương cũng như việc huấn luyện đào tạo có chất lượng.",
+        "Summary": "Bảo mật web server thương mại có các lựa chọn điều khiển truy nhập như địa chỉ IP, tên máy khách, tập tin, thư mục, nhóm người dùng và cơ cấu bảo mật. Các giao thức bảo mật gồm SSL, HTTP và SSL, trong đó SSL mã hóa toàn bộ phiên giao tác khách hàng/chủ, trong khi SSL mã hóa toàn bộ phiên giao tác khách hàng/chủ. Lựa chọn cuối cùng liên quan đến thiết kế mạng, độ tin cậy, giá cả và khả năng xử lý lỗi.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Thứ nhất, liệt kê 'HTTP' như một giao thức bảo mật là không đúng, vì HTTP không phải là giao thức bảo mật. Thứ hai, có sự lặp lại thông tin về SSL ('SSL mã hóa toàn bộ phiên giao tác khách hàng/chủ, trong khi SSL mã hóa toàn bộ phiên giao tác khách hàng/chủ'). Thứ ba, SHTTP bị bỏ qua trong khi nó là một giao thức bảo mật quan trọng được đề cập trong văn bản gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày theo một trình tự nhất định, tuy nhiên, việc lặp lại thông tin về SSL làm giảm tính mạch lạc của đoạn văn."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các khía cạnh quan trọng của bảo mật web server và các yếu tố cần xem xét khi lựa chọn web server. Tuy nhiên, việc bỏ qua SHTTP và đưa HTTP vào danh sách giao thức bảo mật làm giảm tính liên quan của bản tóm tắt đến nội dung chính của văn bản gốc."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, nhưng cần cải thiện về độ chính xác và tránh lặp lại thông tin. Cần loại bỏ thông tin sai lệch về giao thức HTTP và bổ sung thông tin về giao thức SHTTP. Ngoài ra, cần loại bỏ sự lặp lại thông tin về giao thức SSL."
+            }
+        }
+    },
+    {
+        "Index": "00117",
+        "Article": "Quá trình vận chuyển dữ liệu an toàn thực hiện bởi giao thức SSL Record sau khi khởi tạo phiên làm việc thành công. Giao thức SSL Record sử dụng các tham số mã hóa và các bộ mã hóa thiết lập trong quá trình khởi tạo để tạo đường hầm vận chuyển dữ liệu an toàn. SSL Record đảm bảo tính bí mật cho khối dữ liệu sử dụng mã hóa đối xứng với khóa phiên, và đảm bảo tính toàn vẹn và xác thực cho khối dữ liệu sử dụng hàm băm có khóa (MAC). Quá trình xử lý dữ liệu bởi SSL Record tại bên gửi, gồm các bước. Phân mảnh dữ liệu (Fragment): Dữ liệu từ ứng dụng (Application Data) được phân mảnh thành các khối cho phù hợp với việc đóng gói và truyền của các lớp giao thức tầng thấp hơn. Nén dữ liệu (Compress): Từng khối dữ liệu được được nén để giảm kích thước. Bước nén dữ liệu là không bắt buộc. Thêm MAC (Add MAC): Tính toán giá trị MAC (sử dụng hàm băm có khóa) cho khối dữ liệu nén và ghép giá trị MAC vào khối dữ liệu. Việc thêm MAC và kiểm tra MAC ở bên nhận để đảm bảo tính toàn vẹn và xác thực khối dữ liệu. Mã hóa (Encrypt): Mã hóa khối dữ liệu (gồm khối dữ liệu nén và MAC) để đảm bảo tính bí mật sử dụng mã hóa khóa đối xứng với khóa phiên. Thêm đề mục của SSL Record (Append SSL Record Header): thêm đề mục của SSL Record vào khối dữ liệu đã mã hóa và chuyển xuống tầng giao vận để chuyển sang bên nhận. Quá trình xử lý dữ liệu khối dữ liệu nhận được tại bên nhận được thực hiện bởi SSL Record theo trình tự ngược lại, gồm các bước: Tách đề mục của SSL Record, Giải mã, Tách và kiểm tra MAC, Giải nén và Ghép các mảnh dữ liệu thành chuỗi dữ liệu để chuyển cho lớp ứng dụng.",
+        "Summary": "SSL Record sử dụng các tham số mã hóa và bộ mã hóa thiết lập để tạo đường hầm vận chuyển dữ liệu an toàn, đảm bảo tính bí mật và toàn vẹn cho khối dữ liệu sử dụng mã hóa đối xứng và hàm băm có khóa. Quá trình xử lý dữ liệu tại bên gửi bao gồm phân mảnh dữ liệu, nén dữ liệu, thêm MAC, mã hóa, mã hóa và thêm đề mục của SSL Record, theo trình tự ngược lại.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Cụ thể, thứ tự các bước xử lý dữ liệu tại bên gửi được mô tả không hoàn toàn chính xác và có sự lặp lại từ 'mã hóa'. Văn bản gốc mô tả thứ tự là: Phân mảnh, Nén, Thêm MAC, Mã hóa, Thêm đề mục. Bản tóm tắt lại viết 'phân mảnh dữ liệu, nén dữ liệu, thêm MAC, mã hóa, mã hóa và thêm đề mục của SSL Record, theo trình tự ngược lại'. Việc thêm 'theo trình tự ngược lại' vào cuối câu cũng không chính xác vì chỉ có quá trình xử lý ở bên nhận mới diễn ra theo trình tự ngược lại."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày theo một trình tự nhất định, tuy nhiên, việc mô tả sai thứ tự các bước xử lý dữ liệu làm giảm tính mạch lạc của bản tóm tắt."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm chức năng của SSL Record và các bước xử lý dữ liệu. Tuy nhiên, việc đưa thông tin sai lệch về thứ tự các bước làm giảm tính liên quan của bản tóm tắt đến nội dung chính xác của văn bản gốc."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được các ý chính của văn bản gốc. Tuy nhiên, cần chú ý hơn đến tính chính xác của thông tin, đặc biệt là thứ tự các bước xử lý dữ liệu. Việc mô tả sai thứ tự này làm ảnh hưởng đến độ tin cậy và giá trị của bản tóm tắt. Nên kiểm tra kỹ thông tin trước khi đưa vào bản tóm tắt để đảm bảo tính trung thực và chính xác."
+            }
+        }
+    },
+    {
+        "Index": "00118",
+        "Article": "Hình 9.7: Hai hàm khởi tạo chồng. Nói cách khác là ta có các hàm khởi tạo chồng nhau để phục vụ các lựa chọn khác nhau cho việc tạo mới đối tượng. Và cũng như các phương thức chồng khác, các hàm khởi tạo chồng nhau phải có danh sách tham số khác nhau. 148 Như với khai báo lớp Cow trong ví dụ Hình 9.7, ta viết hai hàm khởi tạo cho lớp Cow, và người dùng sẽ có hai lựa chọn để tạo một đối tượng Cow mới: Cow c1 = new Cow(12.1); hoặc Cow c1 = new Cow(); Quay lại vấn đề về hàm khởi tạo không nhận đối số mà trình biên dịch cung cấp cho ta. Không phải lúc nào ta cũng có sẵn một hàm khởi tạo như vậy. Trình biên dịch chỉ cung cấp cho ta một hàm khởi tạo mặc định nếu ta không viết bất cứ một hàm khởi tạo nào cho lớp đó. Khi ta đã viết dù chỉ một hàm khởi tạo cho lớp đó, thì ta phải tự viết cả hàm khởi tạo không nhận đối số nếu cần đến nó. Những điểm quan trọng: • Biến thực thể sống ở bên trong đối tượng chủ của nó. • Các đối tượng sống trong vùng bộ nhớ heap. • Hàm khởi tạo là đoạn mã sẽ chạy khi ta gọi new đối với một lớp đối tượng • Hàm khởi tạo mặc định là hàm khởi tạo không lấy đối số. • Nếu ta không viết một hàm khởi tạo nào cho một lớp thì trình biên dịch sẽ cung cấp một hàm khởi tạo mặc định cho lớp đó. Ngược lại, ta sẽ phải tự viết hàm khởi tạo mặc định. • Nếu có thể, nên cung cấp hàm khởi tạo mặc định để tạo điều kiện thuận lợi cho các lập trình viên sử dụng đối tượng. Hàm khởi tạo mặc định khởi tạo các giá trị mặc định cho các biến thực thể. • Ta có thể có các hàm khởi tạo khác nhau cho một lớp. Đó là các hàm khởi tạo chồng. • Các hàm khởi tạo chồng nhau phải có danh sách đối số khác nhau. • Các biến thực thể luôn có sẵn giá trị mặc định, kể cả khi ta không tự khởi tạo chúng. Các giá trị mặc định là 0/0.0/false cho các kiểu cơ bản và null cho kiểu tham chiếu.",
+        "Summary": "\"Các hàm khởi tạo chồng nhau trong lập trình lớp Cow được sử dụng để tạo mới đối tượng, với danh sách tham số khác nhau. Hàm khởi tạo mặc định là hàm khởi tạo không nhận đối số, nhưng nếu không có, trình biên dịch chỉ cung cấp hàm khởi tạo mặc định nếu không có lớp. Hàm khởi tạo mặc định khởi tạo các giá trị mặc định cho biến thực thể, và nếu không có, nên cung cấp hàm khởi tạo mặc định để thuận tiện cho lập trình viên sử dụng.\"",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực với văn bản gốc. Tuy nhiên, có một chi tiết nhỏ không hoàn toàn chính xác: 'nếu không có, trình biên dịch chỉ cung cấp hàm khởi tạo mặc định nếu không có lớp' nên được diễn đạt lại là 'nếu ta không viết bất cứ một hàm khởi tạo nào cho lớp đó'. Ngoài ra, việc đề cập đến 'lập trình lớp Cow' có thể gây hiểu nhầm vì Cow chỉ là một ví dụ."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, các ý được trình bày theo một trình tự nhất định. Tuy nhiên, có thể cải thiện bằng cách liên kết các câu chặt chẽ hơn để tạo sự liền mạch hơn."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính về hàm khởi tạo chồng và hàm khởi tạo mặc định. Tuy nhiên, có thể lược bỏ chi tiết 'lập trình lớp Cow' vì nó chỉ là một ví dụ cụ thể và không phải là ý chính của văn bản."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng khá tốt, đã nắm bắt được các ý chính của văn bản gốc. Tuy nhiên, cần chú ý hơn đến tính chính xác của một vài chi tiết và cải thiện sự liên kết giữa các câu để tăng tính mạch lạc. Việc lược bỏ các chi tiết không quá quan trọng cũng sẽ giúp bản tóm tắt trở nên súc tích và tập trung hơn."
+            }
+        }
+    },
+    {
+        "Index": "00119",
+        "Article": "HtmlTable control được sử dụng để điều khiển thẻ <table>. Trong HTML, thẻ <table> được sử dụng để tạo một bảng. Các thuộc tính: Align: Xác định cách sắp xếp của bảng. Attributes: Trả về tất cả tên thuộc tính và giá trị tương ứng của thuộc thẻ. BGColor: Xác định màu nền của bảng. Border: Xác định độ dày của viền. BorderColor: Xác định màu của viền. CellPadding: Xác định khoảng cách giữa viền của ô và nội dung bên trong. CellSpacing: Xác định khoảng cách giữa các ô. Disabled: Giá trị boolean xác định control có bị vô hiệu hóa hay không. Mặc định là false. Id: ID duy nhất của control. innerHtml: Điền vào hoặc trả về nội dung giữa thẻ đóng và thẻ mở, những ký tự đặc biệt thì không tự động chuyển thành các entities. innerText: Điền vào hoặc trả về nội dung giữa thẻ đóng và thẻ mở. Những ký tự đặc biệt tự động chuyển thành các entities. Rows: Trả về đối tượng HtmlRowCollection thể hiện tất cả các dòng trong bảng. Style: Xác định hoặc trả về thuộc tính CSS được áp dụng cho control. TagName: Trả về tên của thẻ. Visible: Giá trị boolean xác định control có được hiển thị hay không. Width: Xác định chiều rộng của bảng. Giao diện của chúng ta có hai HtmlSelect control và một HtmlInputButton. Người dùng có thể chọn số dòng và số cột của bảng. Khi người dùng nhấn nút submit, hàm xử lý sự kiện click của button được thực thi và tạo ra bảng với số dòng và số cột đã chọn. HtmlTableCell control được sử dụng để điều khiển thẻ <td> và <th>. Trong HTML, những thẻ này được sử dụng để tạo các ô trong bảng và các ô tiêu đề của bảng. Các thuộc tính: Align: Sắp xếp theo chiều ngang nội dung của ô. Attributes: Trả về tất cả tên thuộc tính và giá trị tương ứng của thuộc thẻ. BGColor: Xác định màu nền của ô. Border: Xác định độ dày của viền. ColSpan: Số cột mà ô mở rộng. Disabled: Giá trị boolean xác định control có bị vô hiệu hóa hay không. Mặc định là false. Id: ID duy nhất của control. innerHtml: Điền vào hoặc trả về nội dung giữa thẻ đóng và thẻ mở, những ký tự đặc biệt thì không tự động chuyển thành các entities. innerText: Điền vào hoặc trả về nội dung giữa thẻ đóng và thẻ mở. Những ký tự đặc biệt tự động chuyển thành các entities. RowSpan: Số dòng mà ô mở rộng. Runat: Xác định rằng control này là server control. Phải được xác định là \"server\". Style: Xác định hoặc trả về thuộc tính CSS được áp dụng cho control. TagName: Trả về tên của thẻ. Valign: Sắp xếp theo chiều dọc nội dung của ô. Visible: Giá trị boolean xác định control có được hiển thị hay không. Width: Xác định chiều rộng của ô. Giao diện của chúng ta có một HtmlTable control và một HtmlInputButton control. Khi người dùng nhấn nút submit, hàm xử lý sự kiện click của button này sẽ được thực thi. Khi đó, màu nền của bảng sẽ được gán là màu vàng và viền của bảng sẽ được đổi thành màu đỏ như hình dưới đây.",
+        "Summary": "HtmlTable control điều khiển thẻ table> để tạo bảng, với các thuộc tính như: Align, Attributes, CellPadding, CellSpacing, Disabled, Id ID duy nhất, và Attributes, Attributes, Attributes, HeadName, TagName, và Width. HtmlTableCell control điều khiển các thẻ td>, th>, td>, th>, numible, th>, td> và th",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt chứa nhiều thông tin sai lệch và không chính xác so với văn bản gốc. Ví dụ, liệt kê lặp lại 'Attributes' và thêm 'HeadName', 'numible' là những thông tin không có trong văn bản gốc. Cách liệt kê các thẻ cũng không chính xác."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt thiếu mạch lạc. Các ý được liệt kê một cách rời rạc và không có sự liên kết rõ ràng. Việc lặp lại 'Attributes' và liệt kê các thẻ một cách khó hiểu làm giảm tính mạch lạc của bản tóm tắt."
+            },
+            "Tính liên quan": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt chỉ đề cập đến một số khái niệm chính nhưng lại bỏ qua nhiều chi tiết quan trọng khác. Việc liệt kê các thuộc tính một cách không đầy đủ và thiếu chính xác làm giảm tính liên quan của bản tóm tắt đến nội dung gốc."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng kém do chứa nhiều thông tin sai lệch, thiếu mạch lạc và không liên quan đến nội dung gốc. Cần cải thiện đáng kể bằng cách đảm bảo tính chính xác của thông tin, trình bày rõ ràng và tập trung vào các ý chính của văn bản gốc."
+            }
+        }
+    },
+    {
+        "Index": "00120",
+        "Article": "Tấn công từ chối dịch vụ (DoS - Denial of Service) và tấn công phân tán từ chối dịch vụ (DDoS - Distributed Denial of Service) là những hình thức tấn công phổ biến nhằm làm gián đoạn hoặc tê liệt dịch vụ của một hệ thống, website hoặc ứng dụng. Trong cuộc tấn công DoS, kẻ tấn công gửi một lượng lớn yêu cầu hoặc gói dữ liệu độc hại đến mục tiêu nhằm làm cạn kiệt tài nguyên hệ thống như băng thông, CPU, bộ nhớ, hoặc làm nghẽn mạng. DDoS phức tạp hơn vì sử dụng nhiều máy tính bị kiểm soát từ xa (botnet) đồng thời phát động tấn công, khiến việc xác định nguồn gốc rất khó khăn và khả năng chống chịu của hệ thống bị thử thách nghiêm trọng. Các kỹ thuật tấn công có thể bao gồm: SYN flood, UDP flood, HTTP GET/POST flood, Smurf, ICMP flood, DNS amplification, v.v. Một số cuộc tấn công DDoS hiện nay còn kết hợp với mã độc hoặc tấn công ứng dụng, làm cho tác động trở nên nghiêm trọng hơn. Để phòng chống DDoS, cần kết hợp nhiều biện pháp: cấu hình hệ thống và tường lửa đúng cách, sử dụng hệ thống phát hiện và ngăn chặn xâm nhập (IDS/IPS), triển khai dịch vụ chống DDoS chuyên dụng từ các nhà cung cấp như Cloudflare, Akamai hoặc AWS Shield, đồng thời có kế hoạch khôi phục sau tấn công. Một số biện pháp khác bao gồm: giới hạn tốc độ truy cập, lọc lưu lượng bất thường, sử dụng CAPTCHA cho các dịch vụ web, và theo dõi hệ thống theo thời gian thực để phản ứng kịp thời. Ngoài ra, việc thường xuyên kiểm tra và đánh giá năng lực hệ thống trước các kịch bản DDoS giả lập (stress testing) cũng rất quan trọng. Trong bối cảnh nhiều tổ chức hoạt động trực tuyến, sự gián đoạn dịch vụ do DDoS không chỉ gây thiệt hại về tài chính mà còn ảnh hưởng đến uy tín và lòng tin của người dùng. Do đó, phòng chống DDoS cần được xem như một phần không thể thiếu trong chiến lược bảo vệ hạ tầng công nghệ thông tin hiện đại.",
+        "Summary": "Tấn công từ chối dịch vụ (DoS) và phân tán từ chối dịch vụ (DDoS) là hai hình thức tấn công phổ biến, làm gián đoạn hoặc tê liệt dịch vụ của hệ thống. Trong cuộc tấn công DoS, kẻ tấn công gửi nhiều yêu cầu độc hại đến mục tiêu, làm cạn kiệt tài nguyên hệ thống. DDoS phức tạp hơn vì sử dụng nhiều máy tính bị kiểm soát từ xa, khiến việc xác định nguồn gốc rất khó khăn và khả năng chống chịu của hệ thống bị thử thách nghiêm trọng. Để phòng chống DDoS, cần kết hợp nhiều biện pháp",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các câu văn liên kết chặt chẽ với nhau, tạo thành một dòng chảy thông tin logic và dễ hiểu."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại những ý chính và quan trọng nhất từ văn bản gốc, loại bỏ các chi tiết thừa."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng rất tốt. Nó ngắn gọn, chính xác, mạch lạc và bao gồm đầy đủ các ý chính của văn bản gốc. Không có điểm nào cần cải thiện."
+            }
+        }
+    },
+    {
+        "Index": "00121",
+        "Article": "Sử dụng quy tắc Modus Ponens tổng quát cho phép xây dựng thuật toán suy diễn tự động, cụ thể là phương pháp suy diễn tiến và suy diễn lùi. Suy diễn tiến và lùi có thể áp dụng đối với KB chỉ chứa các câu xác định, tức là các câu Horn với đúng một literal dương. Suy diễn tiến (forward chaining) Giả sử ta có KB bao gồm các câu xác định. Thủ tục suy diễn tiến được thực hiện như sau: bắt đầu từ các câu trong KB, áp dụng Modus Ponens để sinh ra các câu mới cho đến khi không thể sinh ra thêm câu nào nữa. Nếu các câu trong KB được biểu diễn dưới dạng quy tắc kéo theo thì việc suy diễn được thực hiện theo chiểu của phép kéo theo, tức là từ các tiền để suy ra kết luận, do vậy suy diễn được gọi là suy diễn tiến. Nhận xét: Suy diễn tiến thêm dần các câu vào KB khi có các câu mới xuất hiện. Quá trình suy diễn này không hướng tới câu truy vấn hay kết luận cụ thể nào mà chỉ được khởi động khi có thêm câu mới. Nếu KB chỉ chứa các câu Horn xác định thì suy diễn tiến là thủ tục suy diễn đúng đắn, tức là chỉ sinh ra những câu thực sự là hệ quả logic của KB. Tính đúng đắn của suy diễn tiến được suy ra từ tính đúng đắn của Modus Ponens tổng quát. Nếu KB chỉ chứa các câu Horn xác định thì suy diễn tiến là thủ tục suy diễn đầy đủ, tức là có thể sinh ra tất cả các câu là hệ quả logic của KB. Tuy nhiên, do không phải câu logic vị từ nào cũng có thể biến đổi về dạng câu xác định nên suy diễn tiến không phải là thủ tục suy diễn đầy đủ đối với logic vị từ nói chung. Suy diễn lùi (Backward chaining) Thủ tục suy diễn tiến trình bầy ở trên bắt đầu từ các câu đã có trong KB và sinh ra các câu mới bằng cách sử dụng quy tắc GMP. Một vấn đề với suy diễn tiến là số câu sinh ra có thể rất nhiều, trước khi sinh ra được câu truy vấn mà ta cần xác định tính đúng sai. Ngược lại với suy diễn tiến, suy diễn lùi bắt đầu từ câu truy vấn, sau đó tìm các sự kiện và quy tắc trong KB cho phép chứng minh câu truy vấn là đúng. Quá trình suy diễn có thể coi như được tiến hành ngược với chiều của phép kéo theo, tức là từ hệ quả ta tìm cách tìm ra các tiền đề làm cho hệ quả đó đúng. Suy diễn lùi rất phù hợp với việc trả lời câu hỏi hoặc chứng minh một câu cụ thể là đúng hay sai từ các câu có trong KB. Quá trình suy diễn lùi được tiến hành như sau. Thủ tục suy diễn nhận câu hỏi hoặc câu cần chứng minh (gọi chung là câu truy vấn) dưới dạng một câu nguyên tử. Câu truy vấn có thể chứa lượng tử với mọi và biến tương ứng. Kết quả trả về là chuỗi các phép thế nếu có thể chứng minh câu truy vấn là đúng. Trước hết, thủ tục suy diễn tìm cách hợp nhất câu truy vấn với các các sự kiện trong KB (nhắc lại: sự kiện là câu Horn chỉ chứa một literal dương và không có literal âm). Nếu không được thì tìm luật và vế phải có thể hợp nhất với câu truy vấn sau đó tìm cách chứng minh vế trái một cách đệ quy bằng cách dùng cùng một thủ tục như chứng minh câu truy vấn.",
+        "Summary": "\"Sử dụng quy tắc Modus Ponens tổng quát để xây dựng thuật toán suy diễn tự động, bao gồm suy diễn tiến và suy diễn lùi. Suy diễn tiến bắt đầu từ các câu trong KB, sau đó sinh ra các câu mới bằng quy tắc GMP. Suy diễn lùi bắt đầu từ câu truy vấn, sau đó tìm sự kiện và quy tắc trong KB để chứng minh câu truy vấn đúng. Suy diễn tiến bắt đầu từ câu truy vấn, sau đó tìm sự kiện và quy tắc trong KB để chứng minh câu truy vấn đúng. Suy diễn tiến tiến bắt đầu từ câu truy vấn, sau đó tìm sự kiện",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Cụ thể, câu 'Suy diễn tiến bắt đầu từ câu truy vấn, sau đó tìm sự kiện và quy tắc trong KB để chứng minh câu truy vấn đúng' lặp lại hai lần và mô tả sai về suy diễn tiến, vì suy diễn tiến bắt đầu từ các câu trong KB chứ không phải câu truy vấn. Điều này làm sai lệch ý nghĩa của văn bản gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc ở phần đầu, nhưng sự lặp lại của câu 'Suy diễn tiến bắt đầu từ câu truy vấn, sau đó tìm sự kiện và quy tắc trong KB để chứng minh câu truy vấn đúng' làm gián đoạn dòng chảy logic và gây khó hiểu."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính về suy diễn tiến và suy diễn lùi, là những khái niệm quan trọng trong văn bản gốc. Tuy nhiên, việc lặp lại thông tin sai lệch làm giảm tính liên quan của bản tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có tiềm năng nhưng bị ảnh hưởng bởi sự thiếu chính xác và lặp lại thông tin. Để cải thiện, cần đảm bảo tính chính xác của thông tin, loại bỏ các phần lặp lại và diễn đạt rõ ràng hơn về sự khác biệt giữa suy diễn tiến và suy diễn lùi."
+            }
+        }
+    },
+    {
+        "Index": "00122",
+        "Article": "Khuôn dạng của bản tin HTTP Các đặc tả HTTP 1.0 (RFC 1945) và HTTP 1.1 (RFC 2016) qui định khuôn dạng bản tin yêu cầu và trả lởi của giao thức HTTP. Bản tin yêu cầu HTTP: Một bản tin yêu cầu thường có dạng sau: GET /english/index.html HTTP/1.l Host: www.ptit.edu.vn Connection: close User-agent:Mozzilla /4. 0 Accept- language:En (extra carry return line feed) Hình 3.3 Khuôn dạng chung của bản tin yêu cầu Trước hết ta thấy rằng bản tin được viết bằng mã ASCII vì thế bất kỳ máy tính thông thường nào cũng có thể đọc được. Thứ hai, bản tin gồm 5 dòng và mỗi dòng đều kết thúc bởi lặp ký tự đặc biệt Carriage Return (CR=13h) và Line Feed (LF-10h), trong thực tế một bản tin có thể có nhiều dòng hơn. Dòng đầu tiên của bản tin được gọi là dòng yêu cầu, các dòng sau gọi là tiêu đề. Dòng yêu cầu có 3 trường: trường phương thức, trường URL và trường phiên bản HTTP. Trường phương thức nhận một trong ba giá trị: GET, POST và PUT, thông thường các yêu cầu sử dụng phương thức GET, phương thức này được trình duyệt sử dụng để yêu cầu đối tượng có địa chỉ URL, trường phiên bản xác định phiên bản giao thức HTTP. Phương thức GET là yêu cẩu của máy khách gửi đến máy chủ để lấy dữ liệu web, phương thức POST dùng để gửi các thông Bài giảng Mạng máy tính – Ths. Nguyễn Xuân Anh 54 điệp cần đẩy dữ liệu lên máy chủ, phương thức PUT đẩy tài nguyên hoặc nội dung từ máy khách lên máy chủ. Trong ví dụ trên thì trình duyệt yêu cầu đối tượng english/index.html vả sử dụng phiên bản HTTP 1.1. Bây giờ hãy xét các trường trong tiêu đề, Host: www.ptit.edu.vn là địa chỉ của máy tính có chứa đối tượng được yêu cầu. Ý nghĩa của trường Connection: close là trình duyệt yêu cầu máy chủ không sử dụng cách kết nối liên tục và yêu cầu máy chủ đóng kết nối lại sau khi đã gửi đi đói tượng được yêu cầu, mặc đù máy khách sử dụng phiên bản HTTP 1.1 nhưng nó không sử dụng kết nối liên tục. Trường User-agent là phần mềm trình duyệt của người sử dụng, phần mềm trình duyệt ở đây là Mozzila, một sản phẩm của hãng Nestcape. Trường này rất quan trọng vì máy chủ có thể gửi các bản khác nhau của cùng một đối tượng đến các trình duyệt khác nhau (các bản đối tượng này đều được xác định qua cùng một địa chỉ URL duy nhất). Cuối cùng là trường Accept language trong ví đụ này người sử dụng yêu cầu bản tiếng Anh của đối tượng nếu máy chủ có bản này, trong trường hợp không có thì máy chủ gửi đi bản mặc định.",
+        "Summary": "Bản tin yêu cầu HTTP (LIN) có khuôn dạng chung là GET/english/index.html HTTP/1.l Host/ptit.edu.vn Connection: close User-agent:Mozzilla /4. 0 Accept-language:En (extra carry return line feed). Bản tin yêu cầu có 3 trường: trường phương thức, trường URL và phiên bản HTTP. Trường phương thức nhận một giá trị GET, POST và PUT, thông thường các yêu cầu sử dụng phương thức GET, POST và",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số chi tiết không chính xác so với văn bản gốc. Ví dụ, phần đầu tiên của bản tóm tắt 'Bản tin yêu cầu HTTP (LIN) có khuôn dạng chung là GET/english/index.html HTTP/1.l Host/ptit.edu.vn Connection: close User-agent:Mozzilla /4. 0 Accept-language:En (extra carry return line feed)' không hoàn toàn khớp với ví dụ trong văn bản gốc và có vẻ như đã bị rút gọn hoặc viết lại không chính xác. Ngoài ra, việc viết tắt '(LIN)' không xuất hiện trong văn bản gốc. Tuy nhiên, các thông tin về các trường trong bản tin yêu cầu và các phương thức GET, POST, PUT thì đúng."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, nhưng vẫn còn một số chỗ chưa kết nối tốt. Ví dụ, câu đầu tiên có vẻ hơi rời rạc và khó hiểu do cách trình bày thông tin. Tuy nhiên, các ý chính về cấu trúc bản tin và các phương thức HTTP được trình bày tương đối rõ ràng."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm cấu trúc của bản tin HTTP và các phương thức yêu cầu. Tuy nhiên, việc đưa vào chi tiết về 'extra carry return line feed' có thể không cần thiết và làm giảm tính liên quan của bản tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được các ý chính của văn bản gốc. Tuy nhiên, cần cải thiện về độ chính xác và mạch lạc trong cách trình bày. Nên kiểm tra kỹ thông tin so với văn bản gốc để tránh sai sót và diễn giải không chính xác. Ngoài ra, cần loại bỏ các chi tiết không cần thiết để tăng tính liên quan của bản tóm tắt."
+            }
+        }
+    },
+    {
+        "Index": "00123",
+        "Article": "First, a high transfer capacity must exist along the entire path between host memory and the individual disk drives. This includes internal controller buses, host system I/O buses, I/O adapters, and host memory buses. The second requirement is that the application must make I/O requests that drive the disk array efficiently. This requirement is met if the typical request is for large amounts of logically contiguous data, compared to the size of a strip. In this case, a single I/O request involves the parallel transfer of data from multiple disks, increasing the effective transfer rate compared to a single-disk transfer. RAID 0 FOR HIGH I/O REQUEST RATE In a transaction-oriented environment, the user is typically more concerned with response time than with transfer rate. For an individual I/O request for a small amount of data, the I/O time is dominated by the motion of the disk heads (seek time) and the movement of the disk (rotational latency). In a transaction environment, there may be hundreds of I/O requests per sec- ond. A disk array can provide high I/O execution rates by balancing the I/O load across multiple disks. Effective load balancing is achieved only if there are typically 2.5. Bộ nhớ ảo (Virtual Memory) Khái niệm bộ nhớ ảo: gồm bộ nhớ chính và bộ nhớ ngoài mà được CPU coi như là một bộ nhớ duy nhất (bộ nhớ Các kỹ thuật thực hiện bộ nhớ ảo: Kỹ thuật phân trang: Chia không gian địa chỉ bộ nhớ thành các trang nhớ có kích thước bằng nhau và nằm liền kề nhau Thông dụng: kích thước trang = 4KiB Kỹ thuật phân đoạn: Chia không gian nhớ thành các đoạn nhớ có kích thước thay đổi, các đoạn nhớ có thể gối lên nhau. CS-HEDSPI2019 Computer Systems 138 Phân chia bộ nhớ thành các phần có kích thước bằng nhau gọi là các khung trang Chia chương trình (tiến trình) thành các trang Cấp phát số hiệu khung trang yêu cầu cho OS duy trì danh sách các khung trang nhớ Tiến trình không yêu cầu các khung trang liên Sử dụng bảng trang để quản lý CS-HEDSPI2019 Computer Systems 139 8.3 / MEMORY MANAGEMENT But these addresses are not fixed. They will change each time a process is swapped in. To solve this problem, a distinction is made between logical addresses and physical addresses. A logical address is expressed as a location relative to the beginning of the program. Instructions in the program contain only logical addresses.",
+        "Summary": "\"Bộ nhớ ảo (Virtual Memory) là bộ nhớ chính và bộ nhớ ngoài mà CPU coi như một bộ nhớ duy nhất. Bộ nhớ ảo gồm bộ nhớ chính và bộ nhớ ngoài, được CPU coi như một bộ nhớ duy nhất. Các kỹ thuật thực hiện bộ nhớ ảo bao gồm phân trang, phân đoạn, phân đoạn, phân đoạn và phân đoạn, với kích thước thay đổi, và có thể chia không gian thành các đoạn nhớ có kích thước khác nhau. Bộ nhớ ảo được thực hiện bằng cách phân trang, phân đoạn và phân trang.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số thông tin không chính xác hoặc không đầy đủ so với văn bản gốc. Ví dụ, bản tóm tắt đề cập đến 'phân đoạn, phân đoạn, phân đoạn và phân đoạn' lặp lại, trong khi văn bản gốc chỉ đề cập đến 'phân trang' và 'phân đoạn'. Ngoài ra, bản tóm tắt không đề cập đến khái niệm địa chỉ logic và địa chỉ vật lý, một phần quan trọng của quản lý bộ nhớ."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số chỗ lặp ý và diễn đạt chưa rõ ràng. Ví dụ, câu 'Bộ nhớ ảo gồm bộ nhớ chính và bộ nhớ ngoài, được CPU coi như một bộ nhớ duy nhất' lặp lại ý đã nêu trước đó. Cách trình bày các kỹ thuật thực hiện bộ nhớ ảo cũng chưa được mạch lạc."
+            },
+            "Tính liên quan": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tập trung vào khái niệm bộ nhớ ảo và các kỹ thuật liên quan, nhưng bỏ qua các ý quan trọng khác trong văn bản gốc như yêu cầu về dung lượng truyền tải cao và cách ứng dụng tạo yêu cầu I/O hiệu quả. Điều này làm giảm tính toàn diện của bản tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức trung bình. Điểm mạnh là đã nêu được khái niệm cơ bản về bộ nhớ ảo và các kỹ thuật thực hiện. Tuy nhiên, cần cải thiện về tính trung thực (tránh lặp ý và diễn giải sai), tính mạch lạc (liên kết các ý logic hơn), và tính liên quan (bao gồm các ý chính khác trong văn bản gốc). Nên tập trung vào việc tóm tắt đầy đủ và chính xác các ý chính, đồng thời loại bỏ các chi tiết không cần thiết."
+            }
+        }
+    },
+    {
+        "Index": "00124",
+        "Article": "Mã Caesar là một trong những hệ mã hóa được biết đến sớm nhất, do Julius Caesar sáng tạo và lần đầu tiên được sử dụng trong quân sự. Phương pháp mã hóa này rất đơn giản: mỗi chữ trong bản rõ được thay thế bằng chữ cái đứng thứ ba tiếp theo trong bảng chữ cái. Ví dụ, câu \"Meet me after the toga party\" sẽ được mã hóa thành \"PHHW PH DIWHU WKH WRJD SDUWB\". Ở đây, chữ \"m\" được thay bằng chữ \"p\" (m, n, o, p), chữ \"e\" được thay bằng chữ \"h\" (e, f, g, h), và tiếp tục tương tự với các chữ còn lại. Việc mã hóa có thể được định nghĩa thông qua ánh xạ bảng chữ cái như sau: dòng trên là bản rõ, dòng dưới là bản mã tương ứng: a b c d e f g h i j k l m n o p q r s t u v w x y z – D E F G H I J K L M N O P Q R S T U V W X Y Z A B C. Về mặt toán học, nếu ta gán số thứ tự cho mỗi chữ cái trong bảng chữ cái (a = 0, b = 1, ..., z = 25), thì mã hóa Caesar có thể được biểu diễn bằng phép toán: c = E(p) = (p + k) mod 26, p = D(c) = (c - k) mod 26. Trong đó, p là số thứ tự của chữ trong bản rõ, c là số thứ tự của chữ tương ứng trong bản mã, và k là khóa dịch chuyển. Với mã Caesar, khóa k có thể nhận 26 giá trị khác nhau (từ 0 đến 25), tuy nhiên thực tế chỉ có 25 khóa hiệu dụng, vì k = 0 giữ nguyên văn bản. Vì mọi chữ đều bị tịnh tiến cùng một khoảng cách, độ dài khóa thực tế chỉ là 1. Mã Caesar rất dễ bị bẻ khóa do số lượng khóa có thể có là rất ít. Vì chỉ có 26 giá trị khóa, kẻ tấn công có thể sử dụng phương pháp tìm duyệt tổng thể để thử tất cả các khóa và tìm ra bản rõ đúng. Chỉ cần thử tất cả 26 cách dịch chuyển, kẻ tấn công có thể xác định được bản rõ thông qua nội dung có ý nghĩa. Ngoài ra, phương pháp phân tích tần suất cũng có thể được áp dụng để phá mã, vì trong văn bản tự nhiên, một số chữ cái xuất hiện thường xuyên hơn những chữ cái khác. Nếu kẻ tấn công nhận thấy một chữ cái xuất hiện nhiều lần trong bản mã, họ có thể so sánh với tần suất của các chữ cái trong ngôn ngữ gốc và từ đó suy ra giá trị của khóa k. Do mức độ bảo mật thấp, mã Caesar hầu như không còn được sử dụng trong thực tế, nhưng nó là nền tảng quan trọng cho các hệ thống mã hóa phức tạp hơn.",
+        "Summary": "Mã Caesar là một hệ mã hóa được Julius Caesar sáng tạo, sử dụng để thay thế các chữ trong bản rõ bằng chữ cái đứng thứ ba trong bảng chữ cái. Mã này có thể được định nghĩa bằng phép toán c  Ep + k mod 26, và k là khóa dịch chuyển. Mã này có thể được sử dụng bằng cách tìm kiếm tổng thể, sử dụng phương pháp tìm duyệt tổng thể để xác định bản rõ đúng.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, tuy nhiên có một vài chi tiết nhỏ bị lược bỏ hoặc diễn giải chưa đầy đủ. Ví dụ, việc Julius Caesar sử dụng mã này lần đầu tiên trong quân sự không được đề cập. Công thức toán học được rút gọn có thể gây khó hiểu cho người đọc không quen thuộc với ký hiệu toán học."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày theo một trình tự logic, từ định nghĩa mã Caesar đến cách thức hoạt động và cách phá mã. Tuy nhiên, liên kết giữa các câu có thể được cải thiện để tăng tính trôi chảy."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm định nghĩa, cách thức hoạt động và điểm yếu của mã Caesar. Tuy nhiên, có thể lược bỏ phần công thức toán học nếu mục đích là tóm tắt cho đối tượng không chuyên."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được những ý chính của văn bản gốc. Tuy nhiên, cần chú ý hơn đến tính đầy đủ và rõ ràng của thông tin, cũng như cải thiện liên kết giữa các câu để tăng tính mạch lạc. Nên cân nhắc đối tượng mục tiêu để điều chỉnh mức độ chi tiết và sử dụng thuật ngữ chuyên môn."
+            }
+        }
+    },
+    {
+        "Index": "00125",
+        "Article": "Các khái niệm cơ sở trong Amazon S3 Đối tượng dữ liệu (Objects): Các đối tượng dữ liệu được coi như khái niệm các tập tin trong hệ thống quản lý tập tin thông thường. Mỗi đối tượng được lưu trữ với siêu dữ liệu đặc tả đi kèm như ngày chỉnh sửa, ngày khởi tạo,… Số lượng các đối tượng mà người sử dụng có thể lưu trữ là vô hạn và mỗi đối tượng có thể chứa 5 TB dữ liệu. Thùng (buckets): Mỗi đối tượng được lưu trữ trong một thùng, được hiểu như là một thư mục trên hệ quản lý tập tin. Tuy nhiên, khác với hệ quản lý tập tin, các thùng chỉ chứa các đối tượng dữ liệu, không chứa các thùng con. Khóa (keys): Mối đối tượng dữ liệu trong Amazon S3 được định danh bởi một khóa duy nhất ứng với thùng có chứa đối tượng đó. S3 hỗ trợ tính phiên bản, do vậy định danh của mỗi một phiên bản (version) của đối tượng dữ liệu được xây dựng từ tên thùng, khóa và mã phiên bản. Vùng địa lý kho lưu trữ (Regions): Người sử dụng S3 khởi tạo thùng theo khu vực địa lý nơi triển khai hệ thống S3. Việc cho phép lựa chọn vùng lưu trữ là để tối ưu độ trễ đường truyền tăng tốc độ truy cập. S3 hiện nay được triển khai trên các vùng địa lý như Mỹ, châu Âu, khu vực châu Á,… Thiết kế Amazon không công bố thông tin chi tiết thiết kế của S3. Theo Amazon, thiết kế của S3 nhằm mục đích cung cấp khả năng mở rộng, tính sẵn sàng cao và độ trễ thấp với chi phí. S3 lưu trữ các đối tượng hay thực thể dữ liệu kích thước lên đến 5 terabyte. Các đối tượng được tổ chức thành các thùng bucket (mỗi thùng thuộc sở hữu của một dịch vụ Web Amazon hoặc tài khoản AWS). Mỗi thực thể được định danh trong mỗi nhóm bằng một khóa duy nhất gán với người sử dụng. Các thùng và các đối tượng có thể được tạo ra, được liệt kê và lấy ra bằng cách sử dụng hoặc một giao diện HTTP kiểu REST hoặc giao diện SOAP. Ngoài ra, các đối tượng có thể được tải về bằng cách sử dụng giao diện giao thức BitTorrent. S3 hỗ trợ các giao thức bảo mật, chính sách quyền truy cập đến các đối tượng và các thùng. Tên và khóa thùng được lựa chọn nên các đối tượng có thể được đánh địa chỉ thông qua URL: http://s3.amazonaws.com/bucket/key http://bucket.s3.amazonaws.com/key Vì các đối tượng có thể truy cập qua giao thức HTTP, S3 có thể được sử dụng để thay thế đáng kể cơ sở hạ tầng lưu trữ web tĩnh hiện có. Cơ chế xác thực AWS Amazon cho phép chủ sở hữu nhóm tạo ra một URL xác thực với thời gian tồn tại được định sẵn. Ví dụ như, người sử dụng có thể xây dựng một URL mà có thể được giao cho một bên thứ ba để truy cập trong một Mỗi mục trong một thùng cũng có thể được phục vụ như là một nguồn cấp dữ liệu BitTorrent. Các kho dữ liệu của S3 có thể hoạt động như một máy chủ lưu trữ nguồn cho một torrent và client BitTorrent bất kỳ có thể lấy lại tập tin qua giao thức BitTorrent. Điều này làm giảm đáng kể chi phí băng thông cho việc tải xuống của các thực thể phổ biến vì các client BitTorrent trong quá trình tải về đối tượng dữ liệu cũng đóng góp vào việc làm trung gian đưa dữ liệu tới các client khác.",
+        "Summary": "\"S3 là hệ thống quản lý tập tin, bao gồm các đối tượng dữ liệu như tệp tin, thùng và khóa. Mỗi đối tượng được lưu trữ trong một thùng, với siêu dữ liệu đặc tả và có thể chứa 5 TB dữ liệu. Mỗi đối tượng được lưu trữ trong thùng, với khóa duy nhất và định danh bởi một khóa duy nhất. Các đối tượng được tạo thành các thùng bucket, có thể được tạo ra bằng giao diện HTTP hoặc SOAP. S3 hỗ trợ giao thức bảo mật, chính sách quyền truy cập và chính sách quyền truy cập.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, tuy nhiên có một vài chi tiết nhỏ bị lược bỏ hoặc diễn đạt chưa đầy đủ. Ví dụ, đoạn 'S3 hỗ trợ tính phiên bản, do vậy định danh của mỗi một phiên bản (version) của đối tượng dữ liệu được xây dựng từ tên thùng, khóa và mã phiên bản' không được đề cập đến."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, các ý được trình bày theo một trình tự nhất định. Tuy nhiên, có một vài chỗ câu văn hơi lủng củng và có thể cải thiện để dễ hiểu hơn. Ví dụ, câu 'Mỗi đối tượng được lưu trữ trong thùng, với khóa duy nhất và định danh bởi một khóa duy nhất' có phần lặp ý."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, như các khái niệm cơ bản trong S3 (đối tượng, thùng, khóa), dung lượng lưu trữ, và các giao thức hỗ trợ. Tuy nhiên, có thể lược bỏ một số chi tiết nhỏ để bản tóm tắt ngắn gọn và tập trung hơn vào những thông tin quan trọng nhất."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được các ý chính của văn bản gốc và trình bày một cách tương đối mạch lạc. Tuy nhiên, cần chú ý hơn đến việc diễn đạt câu văn sao cho trôi chảy và tránh lặp ý. Ngoài ra, có thể lược bỏ một số chi tiết không quá quan trọng để bản tóm tắt súc tích hơn."
+            }
+        }
+    },
+    {
+        "Index": "00126",
+        "Article": "2.1.3.2 Thẻ ghi nợ\n ü Khái niệm\n Thẻ ghi nợ là loại thẻ cho phép chủ sở hữu thẻ chi tiêu trực tiếp trên tài khoản tiền gửi\n của mình tại ngân hàng phát hành thẻ. Với loại thẻ này, chủ thẻ có thể chi trả tiền hàng hoá,\n dịch vụ dựa trên số dư tài khoản tiền gửi của mình tại ngân hàng phát hành thẻ. Thẻ thanh\n toán không có hạn mức tín dụng vì nó phụ thuộc vào số dư hiện hữu trên tài khoản của chủ\n thẻ. Số tiền chủ thẻ chi tiêu sẽ được khấu trừ ngay vào tài khoản của chủ thẻ thông qua những\n thiết bị điện tử đặt tại cơ sở chấp nhận thẻ. Trong một số trường hợp, chủ thẻ cũng có thể\n được ngân hàng cấp cho một mức thấu chi, tuỳ theo sự thoả thuận giữa chủ thẻ và ngân hàng.31\n Đó là một khoản tín dụng ngắn hạn mà ngân hàng cấp cho chủ thẻ.\n ü Phân loại thẻ ghi nợ\n Phân loại theo phương thức khấu trừ tài khoản\n - Thẻ ghi nợ trực tuyến (online): Là loại thẻ mà giá trị những giao dịch được khấu trừ\n ngay lập tức vào tài khoản của chủ thẻ. Những thông tin về giao dịch được kết nối trực tiếp từ\n thiết bị điện tử đặt tại cơ sở chấp nhận thẻ hoặc điểm rút tiền mặt tới ngân hàng phát hành.\n Giá trị những giao dịch được khấu trừ trực tiếp và lập tức vào tài khoản của chủ thẻ. Với thẻ\n ghi nợ online thì khi thanh toán đòi hỏi được cấp phép ngay lập tức.\n - Thẻ ghi nợ ngoại tuyến (offline): Là loại thẻ mà giá trị những giao dịch được khấu\n trừ vào tài khoản chủ thẻ sau đó vài ngày. Thông tin giao dịch được lưu tại máy điện tử của cơ\n sở chấp nhận thẻ và được chuyển đến ngân hàng phát hành muộn hơn (không có kết nối trực\n tiếp vào thời điểm thanh toán). Giá trị những giao dịch sẽ được khấu trừ vào tài khoản của chủ\n thẻ sau đó vài ngày, thường là từ hai đến ba ngày.\n Phân loại theo phạm vi khu vực\n - Thẻ ghi nợ nội địa: Là loại thẻ được sử dụng để giao dịch ở trong nước, hiện nay đa\n phần chúng ta đều sử dụng thẻ ghi nợ nội địa. Các thẻ nội địa ở Việt Nam đa phần vẫn được\n làm bằng công nghệ thẻ từ.\n - Thẻ ghi nợ quốc tế : Là loại thẻ được sử dụng để giao dịch ở nước ngoài, số lượng\n người sử dụng thẻ ghi nợ quốc tế thì ít hơn. Hiện nay tất cả các thẻ ghi nợ quốc tế ở Việt Nam\n đều sử dụng công nghệ chip thông minh.\n ü Đặc điểm của thẻ ghi nợ\n Chi tiêu tới đâu, khấu trừ tài khoản luôn tới đó\n Thẻ ghi nợ đơn giản là một tài khoản tiền gửi của khách hàng tại ngân hàng, khách\n hàng chi tiêu dựa trên chính số dư của mình vì thế đối với thẻ ghi nợ khách hàng chi tiêu tới\n đâu sẽ bị khấu trừ tiền luôn tới đó.\n Chi tiêu bằng tất cả các loại tiền\n Đây là đặc điểm đối với thẻ ghi nợ quốc tế, đối với thẻ ghi nợ quốc tế chủ thẻ có thể\n chi tiêu bằng tất cả các loại tiền, tuy nhiên sẽ phải mất phí chuyển đổi ngoại tệ.\n Không phải mất phí hoặc mất một khoản phí rất nhỏ khi rút tiền\n Đó là sự khác biệt rất lớn giữa thẻ tín dụng và thẻ ghi nợ, thẻ tín dụng sẽ phải mất phí\n cao do tiền chủ thẻ sử dụng chính là tiền đi vay của ngân hàng, còn đối với thẻ ghi nợ, chủ thẻ\n sẽ chi tiêu bằng chính số dư trên tài khoản tiền gửi của mình.\n Số dư trong tài khoản được hưởng lãi suất không kỳ hạn",
+        "Summary": "Thẻ ghi nợ là loại thẻ cho phép chủ sở hữu thẻ chi tiêu trực tiếp trên tài khoản tiền gửi của mình tại ngân hàng phát hành thẻ. Các loại thẻ này có thể được phân loại theo phương thức khấu trừ tài khoản, trực tuyến (online), ngoại tuyến (offline), ngoại tuyến (offline), và phạm vi khu vực (nội địa, ngoại địa, quốc tế). Các loại thẻ ghi nợ này được phân loại theo phạm vi khu vực, trong đó thẻ nội địa được sử dụng trong nước, còn thẻ ngoại tuyến (offline) và thẻ ngoại tuyến (offline),",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Cụ thể, phần phân loại thẻ ghi nợ theo phạm vi khu vực bị sai lệch. Văn bản gốc nêu thẻ ghi nợ quốc tế, nhưng bản tóm tắt lại viết là thẻ ngoại tuyến (offline) và thẻ ngoại tuyến (offline). Điều này làm sai lệch thông tin."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt chưa được mạch lạc. Câu cuối cùng bị lặp lại thông tin và gây khó hiểu cho người đọc. Cần chỉnh sửa để đảm bảo sự trôi chảy và logic giữa các ý."
+            },
+            "Tính liên quan": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tập trung vào khái niệm và phân loại thẻ ghi nợ, đây là những ý chính của văn bản gốc. Tuy nhiên, việc bỏ qua các đặc điểm của thẻ ghi nợ (chi tiêu tới đâu khấu trừ tới đó, chi tiêu bằng mọi loại tiền, phí rút tiền thấp, hưởng lãi suất không kỳ hạn) làm giảm giá trị của bản tóm tắt. Nên bổ sung thêm thông tin về các đặc điểm này."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức trung bình. Cần cải thiện về tính trung thực bằng cách kiểm tra kỹ thông tin so với văn bản gốc. Đồng thời, cần tăng tính mạch lạc bằng cách chỉnh sửa câu văn và đảm bảo sự liên kết giữa các ý. Cuối cùng, cần bổ sung thêm thông tin về các đặc điểm của thẻ ghi nợ để tăng tính liên quan và đầy đủ của bản tóm tắt."
+            }
+        }
+    },
+    {
+        "Index": "00127",
+        "Article": "Khả năng chịu tải nâng cao: Về lý thuyết, tài nguyên tính toán trên đám mây là vô hạn. Việc thêm vào năng lực tính toán để chịu tải cao có thể được thực hiện chỉ bằng các thao tác kích chuột hoặc đã được tự động hoá. Độ tin cậy: Người sử dụng điện toán đám mây được ký hợp đồng sử dụng với điều khoản chất lượng dịch vụ rất cao ghi sẵn trong hợp đồng. Chất lượng dịch vụ đám mây đơn giản được đánh giá ổn định hơn hệ thống tự triển khai do nền tảng đám mây được thiết kế và bảo trì bởi đội ngũ chuyên gia nhiều kinh nghiệm về hệ thống. Hơn nữa, việc luôn làm việc với hệ thống lớn và gặp nhiều lỗi tương tự nhau nên quá trình khôi phục hệ thống sau thảm họa thông thường là nhanh chóng. Tính co giãn linh động: Tính co giãn thể hiện sự linh động trong việc cung cấp tài nguyên tính toán theo nhu cầu thực tế của người dùng hoặc các ứng dụng dịch vụ. Theo đó tài nguyên sẽ được đáp ứng một cách tự động sát với nhu cầu tại thời gian thực mà không cần người dùng phải có kỹ năng cho quá trình điều khiển này. Bảo mật: Tính bảo mật trong điện toán đám mây từ trước đến nay vẫn là câu hỏi lớn cho người dùng tiềm năng. Tuy nhiên, hiện nay, khả năng bảo mật trong môi trường đám mây đã được cải thiện đáng kể, nhờ vào một số lý do chính sau đây: do dữ liệu tập trung trong các đám mây ngày càng lớn nên các nhà cung cấp luôn chú trọng nâng cao công nghệ và đặt ra những rào cản để tăng tính an toàn cho dữ liệu. Bên cạnh đó, các nhà cung cấp đám mây có khả năng dành nhiều nguồn lực cho việc giải quyết các vấn đề bảo mật mà nhiều khách hàng không có đủ chi phí để thực hiện. Các nhà cung cấp sẽ ghi nhớ các nhật ký truy cập, nhưng việc truy cập vào chính bản thân các nhật ký truy cập này có thể cũng rất khó khăn do chính sách của nhà cung cấp đám mây khi người dùng tự mình muốn xác minh rõ hệ thống của mình có an toàn không. Mặc dù vậy, mối quan tâm lo ngại về việc mất quyền điều khiển dữ liệu nhạy cảm cũng ngày càng tăng cao.",
+        "Summary": "Điện toán đám mây có khả năng chịu tải nâng cao, độ tin cậy cao, độ tin cậy cao, và độ co giãn linh động. Khả năng chịu tải cao cho phép đáp ứng tài nguyên linh động theo nhu cầu thực tế, và tính co giãn linh động cung cấp tài nguyên theo nhu cầu thực tế. Mặc dù vẫn còn là câu hỏi lớn, khả năng bảo mật trong điện toán đám mây đã cải thiện nhờ vào các lý do như dữ liệu tập trung lớn, nhà cung cấp sẵn sàng giải quyết các vấn đề bảo mật mà người dùng không đủ chi phí thực hiện.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, tuy nhiên có một vài điểm cần lưu ý. Cụ thể, việc lặp lại cụm từ \"độ tin cậy cao\" là một lỗi nhỏ. Ngoài ra, câu \"Khả năng chịu tải cao cho phép đáp ứng tài nguyên linh động theo nhu cầu thực tế, và tính co giãn linh động cung cấp tài nguyên theo nhu cầu thực tế\" có thể gây hiểu nhầm vì hai khái niệm này được trình bày gần như đồng nhất, trong khi văn bản gốc có sự phân biệt rõ ràng hơn."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, nhưng vẫn còn một số chỗ có thể cải thiện. Việc lặp lại \"độ tin cậy cao\" làm gián đoạn dòng chảy. Câu về khả năng chịu tải và tính co giãn nên được diễn đạt lại để làm rõ sự khác biệt giữa hai khái niệm này."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, bao gồm khả năng chịu tải, độ tin cậy, tính co giãn và bảo mật. Tuy nhiên, việc diễn đạt lại một số ý có thể làm mất đi sắc thái và chi tiết quan trọng. Ví dụ, phần tóm tắt về bảo mật đề cập đến việc nhà cung cấp sẵn sàng giải quyết các vấn đề bảo mật, nhưng không đề cập đến lo ngại về việc mất quyền điều khiển dữ liệu nhạy cảm, một điểm quan trọng trong văn bản gốc."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được các ý chính của văn bản gốc. Tuy nhiên, cần chú ý hơn đến tính chính xác và mạch lạc trong diễn đạt. Nên tránh lặp từ và diễn giải lại các khái niệm một cách rõ ràng hơn. Đồng thời, cần đảm bảo rằng các chi tiết quan trọng trong văn bản gốc không bị bỏ sót trong quá trình tóm tắt."
+            }
+        }
+    },
+    {
+        "Index": "00128",
+        "Article": "a) Hãy xây dựng cây quyết định sử dụng thuật toán ID3. Trong trường hợp có hai thuộc tính tốt tương đương thì chọn theo thứ tự bảng chữ cái. b) Giả sử không biết nhãn phân loại của ví dụ cuối cùng, hãy xác định nhãn cho ví dụ đó bằng phương pháp Bayes đơn giản (chỉ rõ các xác suất điều kiện thành phần) và k láng giềng gần nhất với k = 5. 2. Cho dữ liệu huấn luyện dưới đây với 16 ví dụ. Sử dụng phân loại Bayes để tính giá trị của C nếu biết A = 0, B = 1. Yêu cầu viết chi tiết 3. Cho dữ liệu huấn luyện như trong bảng (f là nhãn phân loại). a) Hãy xác định nhãn cho ví dụ (Màu: Trắng, Hình dạng: Tròn, KL: Nặng) bằng phương pháp Bayes đơn giản (chỉ rõ các xác suất điều kiện thành phần) b) Hãy xác định nút gốc cho cây quyết định sử dụng thuật toán ID3 4. Cho dữ liệu huấn luyện như trong bảng sau, trong đó mỗi cột (trừ cột ngoài cùng bên trái) ứng với một mẫu, dòng dưới cùng (T) chứa giá trị đích: Hãy thực hiện thuật toán giảm gradient cho hồi quy tuyến tính với dữ liệu trên, ghi lại giá trị trọng số sau mỗi bước. Xây dựng cây quyết định cho dữ liệu trong bảng. 5. Hãy vẽ cây quyết định để biểu diễn các biểu thức logic sau: b) A ∨ (B ∧ C) d) (A ∧ B) ∧ (C ∧ D) S. Russell, P. Norvig. Artificial intelligence: a modern approach. 3nd edition. Prentice T. M. Jones. Artificial intelligence a system approach. Infinity science press. 2008. Đinh Mạnh Tường. Trí tuệ nhân tạo. Nhà xuất bản Khoa học kỹ thuật.",
+        "Summary": "\"Trong bài viết, thuật toán ID3 được xây dựng bằng thuật toán Bayes đơn giản để tính giá trị của C nếu có hai thuộc tính tốt tương đương. Ví dụ: cho dữ liệu huấn luyện dưới đây với 16 ví dụ. Sử dụng phân loại Bayes đơn giản để tính giá trị của C nếu biết A  0, B  1. Yêu cầu viết chi tiết 3. Cho dữ liệu huấn luyện dưới đây với 16 ví dụ. Sử dụng phân loại Bayes đơn giản để tính giá trị của C nếu biết A  0, B  1.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt chứa thông tin sai lệch và không đầy đủ so với văn bản gốc. Cụ thể, việc gộp chung thuật toán ID3 và Bayes đơn giản là không chính xác, vì đây là hai phương pháp khác nhau. Ngoài ra, bản tóm tắt lặp lại một phần nội dung và bỏ qua nhiều ý chính khác trong văn bản gốc."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt thiếu mạch lạc, các câu không liên kết chặt chẽ với nhau. Việc lặp lại một phần nội dung làm giảm tính rõ ràng và gây khó hiểu cho người đọc."
+            },
+            "Tính liên quan": {
+                "Điểm": 2,
+                "Đánh giá": "Bản tóm tắt chỉ tập trung vào một vài chi tiết nhỏ trong văn bản gốc và bỏ qua nhiều ý chính quan trọng khác. Điều này làm cho bản tóm tắt không phản ánh đúng trọng tâm của văn bản gốc."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng kém, mắc nhiều lỗi về tính trung thực, mạch lạc và liên quan. Cần cải thiện đáng kể bằng cách tóm tắt đầy đủ các ý chính, trình bày thông tin chính xác và đảm bảo sự liên kết logic giữa các câu."
+            }
+        }
+    },
+    {
+        "Index": "00129",
+        "Article": "Trong hệ điều hành, việc lập trình cấp thấp và tiếp cận tài nguyên phần cứng thường được thực hiện thông qua các trình điều khiển thiết bị (device driver) và lời gọi hệ thống (system call), tuy nhiên với các ứng dụng đặc biệt, lập trình viên có thể cần sử dụng các cơ chế như ioctl (input/output control) để thao tác nâng cao với thiết bị. Lệnh ioctl cho phép người dùng gửi các lệnh điều khiển đặc biệt đến driver thông qua một file descriptor, thường là các thiết bị trong /dev, nhằm thực hiện các thao tác ngoài phạm vi đọc/ghi thông thường như thay đổi cấu hình, truy vấn trạng thái hoặc thực hiện hành động chuyên biệt. Mỗi ioctl có một mã lệnh riêng được định nghĩa trong các header hệ thống, và driver phải xử lý đúng các mã này thông qua hàm ioctl trong mã nguồn kernel. Các thao tác ioctl thường không thể đoán trước được hành vi nếu không có tài liệu chính xác từ nhà sản xuất hoặc mã nguồn mở, do đó đòi hỏi lập trình viên có kinh nghiệm và hiểu rõ kiến trúc thiết bị. Hệ điều hành cung cấp các macro như _IO, _IOR, _IOW, _IOWR để định nghĩa lệnh ioctl một cách nhất quán. Việc sử dụng ioctl sai cách có thể gây treo hệ thống, rò rỉ tài nguyên hoặc lỗi bảo mật nghiêm trọng, do đó cần kiểm tra kỹ đầu vào, quyền truy cập và xử lý lỗi đúng cách. Ioctl là cầu nối quan trọng giữa không gian người dùng và không gian kernel trong các ứng dụng cần kiểm soát sâu thiết bị như hệ thống nhúng, driver đồ họa, card mạng hoặc thiết bị ngoại vi đặc biệt. Đây là một trong những minh chứng rõ ràng nhất cho thấy sức mạnh và tính phức tạp của việc lập trình hệ điều hành ở cấp thấp.",
+        "Summary": "Trong hệ điều hành, việc lập trình cấp thấp thường sử dụng trình điều khiển thiết bị và lời gọi hệ thống, nhưng với các ứng dụng đặc biệt, lập trình viên có thể sử dụng lệnh ioctl để thao tác nâng cao. Các macro như _IO, _IOR, _IOW, _IOWR được sử dụng để định nghĩa lệnh, giúp kiểm soát sâu thiết bị như hệ thống nhúng, driver đồ họa, card mạng và thiết bị ngoại vi. Ioctl là cầu nối giữa không gian người dùng và không gian kernel, giúp kiểm soát sâu thiết bị, kiểm soát sâu thiết bị",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Tất cả thông tin đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt khá mạch lạc, các ý được trình bày rõ ràng và có liên kết với nhau. Tuy nhiên, câu cuối cùng lặp lại cụm 'kiểm soát sâu thiết bị' có thể lược bỏ để tăng tính trôi chảy."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, đặc biệt là vai trò và ứng dụng của ioctl. Tuy nhiên, có thể lược bỏ bớt một vài chi tiết nhỏ để bản tóm tắt ngắn gọn hơn."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, truyền tải được những ý chính của văn bản gốc một cách trung thực và mạch lạc. Điểm cần cải thiện nhỏ là loại bỏ sự lặp lại và cân nhắc lược bỏ một vài chi tiết không quá quan trọng để tăng tính súc tích."
+            }
+        }
+    },
+    {
+        "Index": "00130",
+        "Article": "Mạng riêng ảo (VPN – Virtual Private Network) là một giải pháp bảo mật phổ biến giúp thiết lập một kết nối an toàn giữa người dùng và hệ thống qua mạng Internet. VPN mã hóa toàn bộ dữ liệu truyền đi, từ đó bảo vệ thông tin khỏi bị nghe lén, giả mạo hoặc đánh cắp trong quá trình truyền. Điều này đặc biệt quan trọng khi người dùng truy cập từ mạng không đáng tin cậy như Wi-Fi công cộng, khách sạn hoặc quán cà phê. Có nhiều loại VPN như VPN truy cập từ xa (Remote Access VPN), VPN site-to-site (kết nối giữa các chi nhánh), hoặc VPN SSL tích hợp trên trình duyệt. Về mặt kỹ thuật, VPN sử dụng các giao thức bảo mật như IPsec, SSL/TLS, L2TP hoặc OpenVPN để thiết lập kênh truyền mã hóa. Ngoài việc bảo vệ dữ liệu, VPN còn giúp người dùng truy cập tài nguyên nội bộ từ xa như email, file server hoặc hệ thống ứng dụng, từ đó hỗ trợ mô hình làm việc linh hoạt. Trong môi trường doanh nghiệp, việc triển khai VPN cần kết hợp với các biện pháp xác thực mạnh (như xác thực hai yếu tố) và kiểm soát truy cập để đảm bảo chỉ những người dùng hợp lệ mới được kết nối. Một thách thức khi sử dụng VPN là hiệu suất truyền tải có thể bị ảnh hưởng do dữ liệu phải mã hóa và định tuyến lại. Vì vậy, hệ thống VPN cần được thiết kế có tính chịu tải cao, phân phối máy chủ phù hợp với vị trí địa lý và tích hợp với cơ chế giám sát để phát hiện truy cập bất thường. Ngoài ra, tổ chức cần có chính sách sử dụng VPN rõ ràng, hướng dẫn người dùng và ngăn chặn việc sử dụng các dịch vụ VPN không được kiểm soát, vốn có thể tạo ra lỗ hổng an ninh. Trong bối cảnh ngày càng nhiều người làm việc từ xa và hệ thống trở nên phân tán, VPN tiếp tục đóng vai trò quan trọng trong việc đảm bảo an toàn truy cập và bảo vệ dữ liệu nhạy cảm.",
+        "Summary": "Mạng riêng ảo (VPN) là giải pháp bảo mật phổ biến giúp bảo vệ dữ liệu và tài nguyên nội bộ qua mạng Internet. VPN mã hóa dữ liệu, bảo vệ tài nguyên nội bộ và hỗ trợ truy cập tài nguyên từ xa. VPN cần được thiết kế chịu tải, phân phối máy chủ phù hợp và tích hợp cơ chế giám sát để phát hiện truy cập bất thường. VPN đóng vai trò quan trọng trong việc đảm bảo an toàn truy cập và bảo vệ dữ liệu nhạy cảm trong môi trường phân tán.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Tất cả thông tin đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các câu được liên kết logic với nhau, tạo thành một dòng chảy thông tin dễ hiểu. Các ý chính được trình bày rõ ràng và không gây khó khăn cho người đọc trong việc nắm bắt nội dung."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại những ý chính và quan trọng nhất từ văn bản gốc, loại bỏ các chi tiết không cần thiết. Bản tóm tắt tập trung vào định nghĩa, chức năng, yêu cầu thiết kế và vai trò của VPN trong bảo mật dữ liệu."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng rất tốt. Nó trung thực, mạch lạc và liên quan, tóm gọn được những ý chính của văn bản gốc một cách hiệu quả. Không có điểm nào cần cải thiện."
+            }
+        }
+    },
+    {
+        "Index": "00131",
+        "Article": "Quản lý dự án là việc áp dụng các tri thức, các kỹ năng, các công cụ và các kỹ thuật tới các hoạt động dự án để đạt được những yêu cầu của dự án Nhắc lại các hoạt động điển hình của dự án công nghệ thông tin nói chung và hệ thống phần mềm nói riêng • Thiết kế một giao diện đồ họa với người sử dụng • Cài đặt một mạng địa phương • Kiểm thử tích hợp của các thành phần trong hệ thống • Huấn luyện người sử dụng dùng ứng dụng mới • Cài đặt một tập các lớp của java • Lập tài liệu về các quyết định thiết kế và mã nguồn • Giao tiếp với đội dự án, khách hàng và đội ngũ quản lý • Ước lượng công sức cần thiết thực hiện • Các hoạt động lên kế hoạch và phân phối tài nguyên • So sánh năng suất làm việc trên thực tế với theo kế hoạch • Phân tích rủi ro • Thương lượng với khách hàng thứ cấp • Phân bổ nhân viên Quản lý dự án khác với quản lý chương trình bởi vì một chương trình thường bao gồm nhiều dự án liên quan đến nhau. Điều đó có nghĩa là một chương trình có kích cỡ lớn hơn rất nhiều một dự án, có thời gian hoạt động dài hơn. Ví dụ quản lý một chương trình MS Word gồm nhiều dự án khác nhau, mỗi dự án là một chức năng của chương trình đó. Khái niệm những người tham gia và liên quan đến dự án (Stakeholders): Đó chính là những người liên quan mà một giám đốc dự án cần làm việc và phối hợp để hoàn thành các công việc của dự án. Những người đó bao gồm: nhà tài trợ tài chính cho dự án thực hiện, người điều hành các công việc của dự án hay các chức năng trong tổ chức dự án, đội ngũ nhân viên tham gia quá trình phát triển dự án, khách hàng của dự án, người ký hợp đồng cho dự án, và quản lý của các nhóm chức năng trong công ty.",
+        "Summary": "Quản lý dự án là việc áp dụng tri thức, kỹ năng và công cụ để đạt được các yêu cầu của dự án. Quản lý dự án bao gồm các hoạt động như thiết kế giao diện, kiểm thử tích hợp, huấn luyện người dùng, ước lượng công sức, ước lượng công sức, phân bổ nhân viên, ước lượng công sức, phân tích rủi ro và phân bổ nhân viên. Khái niệm người liên quan đến dự án (Stakeholders) là những người liên quan mà giám đốc dự án cần làm việc và phối hợp để hoàn thành công việc.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt nhìn chung trung thực, tuy nhiên có một vài điểm cần lưu ý: \n- Bản tóm tắt lặp lại hoạt động 'ước lượng công sức' 3 lần, trong khi văn bản gốc chỉ đề cập một lần.\n- Bản tóm tắt thiếu thông tin quan trọng về sự khác biệt giữa quản lý dự án và quản lý chương trình."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các câu liên kết với nhau một cách logic và dễ hiểu. Tuy nhiên, việc lặp lại 'ước lượng công sức' gây ảnh hưởng đến sự trôi chảy của văn bản."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tập trung vào các ý chính của văn bản gốc, như định nghĩa quản lý dự án và khái niệm Stakeholders. Tuy nhiên, việc liệt kê quá nhiều hoạt động cụ thể (thiết kế giao diện, kiểm thử tích hợp...) có thể làm giảm tính khái quát của bản tóm tắt. Ngoài ra, việc bỏ qua sự khác biệt giữa quản lý dự án và quản lý chương trình là một thiếu sót lớn."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được một số ý chính của văn bản gốc. Tuy nhiên, cần loại bỏ thông tin bị lặp lại, bổ sung thông tin về sự khác biệt giữa quản lý dự án và quản lý chương trình, đồng thời cân nhắc việc lược bỏ bớt các hoạt động cụ thể để tăng tính khái quát. "
+            }
+        }
+    },
+    {
+        "Index": "00132",
+        "Article": "Các chính sách nhằm khuyến khích doanh nghiệp đầu tƣ, phát triển ứng dụng, giải pháp tích hợp TTNT đã đƣợc quan tâm, chỉ đạo từ các cấp lãnh đạo cao nhất trong thời gian gần đây. Tuy nhiên, nhận thức của các cấp, các ngành trong những năm qua về vai trò của TTNT còn chƣa đầy đủ. Đầu tƣ của Nhà nƣớc về TTNT còn hạn chế, thiếu tập trung, hiệu quả chƣa cao. Việt Nam chƣa có chiến lƣợc phát triển dữ liệu quốc gia, chƣa có chính sách quốc gia và lộ trình phát triển TTNT. Hiện tại, Việt Nam cũng chƣa có khung pháp lý riêng cho TTNT, chƣa có cơ quan chỉ đạo quản lý, bộ phận công tác tƣ vấn, phối hợp hoạt động phát triển và triển khai TTNT ở cấp trung ƣơng và địa phƣơng, thiếu chính sách quốc gia và khung pháp lý về phát triển, ứng dụng và hợp tác quốc tế trong lĩnh vực TTNT. V. Kết luận Qua các phân tích trên có thể thấy ứng dụng TTNT đã đi vào rất nhiều lĩnh vực, ngành nghề trên thế giới nói chung và Việt Nam nói riêng. TTNT đã trở thành một trong các động lực mới của kinh tế xã hội, đem lại doanh thu và tăng trƣởng cho các ngành nghề truyền thống và cơ hội đột phá, phát triển các giải pháp mới, ngành nghề mới. Thị trƣờng ứng dụng TTNT đã hình thành với các lớp dịch vụ từ nền tảng nghiên cứu, phát triển đến cài đặt, tích hợp, triển khai, bảo trì và hỗ trợ các hệ thống ứng dụng sử dụng TTNT. Việt Nam cần xây dựng các tiêu chuẩn, quy chuẩn kỹ thuật, yêu cầu về đạo đức đối với TTNT để quản lý cũng nhƣ tạo hành lang phát triển bền vững cho thị trƣờng ứng dụng TTNT. Các khung pháp lý rõ ràng nhƣ vậy sẽ góp phần khuyến khích các doanh nghiệp, tổ chức và cá nhân đầu tƣ, phát triển ứng dụng TTNT.",
+        "Summary": "\"Các chính sách nhằm khuyến khích doanh nghiệp đầu t, phát triển ứng dụng, giải pháp tích hợp TTNT đã đợc quan tâm, chỉ đạo từ các cấp lãnh đạo cao nhất trong thời gian gần đây. Hiện tại, Việt Nam cũng cha có khung pháp lý riêng cho TTNT, cha có cơ quan chỉ đạo quản lý, bộ phận công tác t vấn, phối hợp hoạt động phát triển và triển khai TTNT ở cấp trung ơng và địa phơng, thiếu chính sách quốc gia và khung pháp lý về phát triển, ứng dụng và hợp tác quốc tế",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều xuất hiện trong văn bản gốc và không bị diễn giải sai lệch."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các câu được trích dẫn từ văn bản gốc và ghép lại với nhau. Tuy nhiên, để tăng tính mạch lạc, có thể thêm một vài từ nối để các ý liên kết chặt chẽ hơn."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt liên quan đến nội dung chính của văn bản gốc, tập trung vào các chính sách và khung pháp lý liên quan đến TTNT ở Việt Nam. Tuy nhiên, có thể lược bỏ bớt một vài chi tiết nhỏ để bản tóm tắt ngắn gọn và tập trung hơn vào ý chính."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng khá tốt, đảm bảo tính trung thực và liên quan. Để cải thiện, có thể thêm một vài từ nối để tăng tính mạch lạc và lược bỏ bớt một vài chi tiết nhỏ để bản tóm tắt ngắn gọn hơn."
+            }
+        }
+    },
+    {
+        "Index": "00133",
+        "Article": "2.2.3. Các phép toán trên véctơ và m trận 2.2.3.1. Các phép toán số học Chúng ta có thể tiến hành một số phép toán số học nhất định (cộng, trừ) với các véctơ hoặc ma trận cùng kích thƣớc. MATLAB sẽ báo lỗi khi ta thực hiện các phép toán này với các ma trận có kích thƣớc (chiều dài) khác nhau. Ví dụ: >>v1 = [1 2 3] >>v2 = [ 4 5 6] Một véc tơ cũng có thể nhân đƣợc với một đại lƣợng vô hƣớng (một số), thao tác đƣợc MATLAB tiến hành với từng phần tử. Ví dụ: Để tiến hành các tính toán cùng loại (tính toán với từng phần tử): nhân, chia và lũy thừa, MATLAB đƣa ra các toán tử \".*\" , \"./\" và \".^\". Ví dụ: >> a = [1 2 3; 2 4 1; 2 7 2]; >> b = [1 3 1; 2 7 1; 1 2 3]; Nhân hai ma trân a và b theo cách thông thƣờng: Nhân từng phần tử của ma trân a với các phần tử tƣơng ứng của ma trận b (sử dụng dấu Tƣơng tự nhƣ thế đối với các phép toán chia (./) và lũy thừa (.^). Ví dụ: >>c = [1 3; 5 2]; % ươ g đươ g * % Bì h hươ g hầ ử ủa . Tất cả các hàm số học dựng s n của MATLAB đƣợc thiết kế để hoạt động với các véctơ (và ma trận), vì vậy chúng ta có thể xây dựng các diễn giải đại số hoạt động với từ ng phần tử Ví dụ: đoạn mã lệnh dƣới đây tính toán giá trị biểu thức: phần tử. Tính với mỗi một phần tử trong véctơ x và y: >> x = [1 2 3]; y = [4 5 6]; >> s = x.^2 + sqrt(x.*y) – 3*y Lƣu ý các phép tính của các đại lƣợng vô hƣớng trên các véctơ khác nhƣ thế nào với cách làm việc phần tử với phần tử, ví dụ: 3*y rõ ràng là nhân số vô hƣớng với véctơ, trong khi x*y thì khác, vì vậy ở đây ta cần phải sử dụng x.*y Chú ý: Các phép cộng và trừ phần tử với phần tử lẽ ra cũng phải sử dụng \".+\" và \".-\", tuy nhiên trong ví dụ này thì không cần thiết.",
+        "Summary": "Các phép toán số học Chúng ta có thể tiến hành một số phép toán số học nhất định cộng, trừ với các véctơ hoặc ma trận cùng kích thớc. MATLAB sẽ báo lỗi khi ta thực hiện các phép toán này với các ma trận có kích thớc khác nhau. Ví dụ Để tiến hành các tính toán cùng loại tính toán với từng phần tử nhân, chia và lũy thừa, MATLAB đa ra các toán tử \".*\", \"./\" và \".\" Một véc tơ cũng có thể nhân đợc với một đại lợng",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt trung thực, tuy nhiên, có một vài chi tiết nhỏ bị thiếu so với văn bản gốc, ví dụ như thiếu giải thích về cách các hàm số học của MATLAB hoạt động với vector và ma trận."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, các ý được trình bày rõ ràng và dễ hiểu. Tuy nhiên, có thể cải thiện bằng cách liên kết các câu chặt chẽ hơn."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt liên quan đến văn bản gốc, tập trung vào các phép toán số học trên vector và ma trận. Tuy nhiên, có thể lược bỏ bớt một số chi tiết không quá quan trọng để bản tóm tắt ngắn gọn hơn."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức khá, đã nắm bắt được những ý chính của văn bản gốc. Tuy nhiên, cần chú ý hơn đến việc chọn lọc thông tin và liên kết các ý một cách logic để tạo ra một bản tóm tắt chất lượng hơn. Cần xem xét việc bổ sung thêm thông tin về cách các hàm số học của MATLAB hoạt động với vector và ma trận để tăng tính đầy đủ của bản tóm tắt."
+            }
+        }
+    },
+    {
+        "Index": "00134",
+        "Article": "Tín hiệu (signal) là một cơ chế trong hệ điều hành UNIX/Linux dùng để giao tiếp bất đồng bộ giữa các tiến trình hoặc giữa nhân hệ điều hành và tiến trình người dùng. Khi một sự kiện bất thường xảy ra như chia cho 0, lỗi bộ nhớ, người dùng nhấn Ctrl+C, hoặc tiến trình con kết thúc, hệ điều hành sẽ gửi một tín hiệu đến tiến trình liên quan. Mỗi tín hiệu có mã số và tên định danh, ví dụ SIGINT (ngắt từ bàn phím), SIGKILL (kết thúc cưỡng bức), SIGTERM (yêu cầu kết thúc), SIGCHLD (tiến trình con kết thúc). Khi nhận tín hiệu, tiến trình có thể xử lý theo mặc định, bỏ qua, hoặc định nghĩa một hàm xử lý tùy chỉnh (signal handler) thông qua lời gọi hệ thống signal() hoặc sigaction(). Một số tín hiệu như SIGKILL và SIGSTOP không thể bị chặn hoặc xử lý, do được hệ điều hành dùng để kiểm soát tiến trình tuyệt đối. Việc xử lý tín hiệu giúp tiến trình phản ứng linh hoạt với các sự kiện như thoát an toàn, ghi log, đóng kết nối mạng, giải phóng tài nguyên trước khi kết thúc. Ngoài ra, tín hiệu còn được dùng để đồng bộ hóa tiến trình, ví dụ tiến trình cha dùng SIGUSR1 để báo cho tiến trình con bắt đầu thực hiện công việc. Trong môi trường đa luồng, mỗi luồng có thể bị ảnh hưởng khác nhau bởi tín hiệu, tùy cách hệ điều hành định tuyến tín hiệu. Lập trình với tín hiệu đòi hỏi cẩn trọng để tránh điều kiện tranh chấp hoặc lỗi không xác định do xử lý bất đồng bộ. Hệ điều hành hiện đại hỗ trợ nhiều công cụ để giám sát và gửi tín hiệu như kill, pkill, killall, hoặc thư viện lập trình C chuẩn.",
+        "Summary": "Tín hiệu (signal) là cơ chế giao tiếp bất đồng bộ giữa tiến trình và người dùng, cho phép xử lý tín hiệu theo mặc định hoặc tùy chỉnh. Tín hiệu có thể được xử lý bằng cách gọi hệ thống signal() hoặc sigaction(). Việc xử lý tín hiệu giúp tiến trình phản ứng linh hoạt với các sự kiện như thoát an toàn, ghi log, đóng kết nối mạng, giải phóng tài nguyên trước khi kết thúc. Hệ điều hành hỗ trợ nhiều công cụ như kill, pkill, killall, và thư viện lập trình C chuẩn.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Tất cả thông tin trong bản tóm tắt đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các câu được liên kết logic với nhau, tạo thành một đoạn văn dễ hiểu và trôi chảy. Các ý được trình bày rõ ràng, không gây khó khăn cho người đọc trong việc nắm bắt thông tin."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Nó tập trung vào các ý chính của văn bản gốc, loại bỏ các chi tiết không cần thiết. Các thông tin được chọn lọc kỹ càng, đảm bảo truyền tải đầy đủ nội dung cốt lõi của văn bản gốc."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng rất tốt. Nó đáp ứng đầy đủ các tiêu chí về tính trung thực, tính mạch lạc và tính liên quan. Bản tóm tắt đã chọn lọc và trình bày các ý chính một cách hiệu quả, giúp người đọc nhanh chóng nắm bắt được nội dung của văn bản gốc."
+            }
+        }
+    },
+    {
+        "Index": "00135",
+        "Article": "SGA đƣợc cấp phát khi tiến trình Oracle đƣợc kích hoạt và nó là một thành phần cơ bản của tiến trình Oracle. PGA đƣợc cấp phát khi máy chủ đƣợc kích hoạt. Các tiến trình ngầm là các tiến trình hỗ trợ ghi cơ sở dữ liệu, ghi log, giám sát hệ thống, giám sát tiến trình... Ngoài ra, hệ quản trị cơ sở dữ liệu Oracle còn có 1 tiến trình ngƣời dùng (User process) và 1 tiến trình máy chủ (Server process). Tiến trình ngƣời dùng đƣợc kích hoạt khi ngƣời dùng cơ sở dữ liệu tạo kết nối đến máy chủ Oracle và tiến trình máy chủ đƣợc kích hoạt và kết nối đến Oracle Instance khi ngƣời dùng thiết lập 1 phiên làm việc, nhƣ mô tả trên Hình 6.15. Hình 6.15. Mô hình người dùng kết nối đến Oracle Server 6.5.3.2. Các biện pháp bảo mật cơ sở dữ liệu Oracle Hình 6.16. Các biện pháp bảo mật cơ sở dữ liệu Oracle Tƣơng tự nhƣ các hệ quản trị cơ sở dữ liệu khác, Oracle cũng hỗ trợ hầu hết các biện pháp bảo mật truyền thống, bao gồm quản lý tài khoản ngƣời dùng, xác thực và trao quyền, vai trò và quản lý quyền truy nhập đến các đối tƣợng trong cơ sở dữ liệu. Ngoài ra, Oracle còn cung cấp một số biện pháp bảo mật nâng cao, nhƣ liệt kê trên Hình 6.16. Theo đó, các biện pháp bảo mật nâng cao đƣợc chia thành 3 nhóm: giám sát (Monitoring), điều khiển truy nhập (Access control), mã hóa và đặt mặt nạ (Encryption and Masking). Phần tiếp theo trình bày một số biện pháp bảo mật tiêu biểu thuộc 3 nhóm Hình 6.17 mô tả phƣơng thức làm việc của công nghệ mã hóa toàn bộ cơ sở dữ liệu (TDE) hỗ trợ bởi máy chủ Oracle. Theo đó, dữ liệu đƣợc mã hóa ở mức cơ sở dữ liệu, hoàn toàn trong suốt với ngƣời dùng.",
+        "Summary": "Các biện pháp bảo mật cơ sở dữ liệu Oracle Tơng tự nh các hệ quản trị cơ sở dữ liệu khác, Oracle cũng hỗ trợ hầu hết các biện pháp bảo mật truyền thống, bao gồm quản lý tài khoản ngời dùng, xác thực và trao quyền, vai trò và quản lý quyền truy nhập đến các đối tợng trong cơ sở dữ liệu.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều xuất hiện trong văn bản gốc và không bị thay đổi ý nghĩa."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt mạch lạc, rõ ràng và dễ hiểu. Các câu được liên kết một cách logic."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt liên quan đến nội dung chính của văn bản gốc, tập trung vào các biện pháp bảo mật cơ sở dữ liệu Oracle. Tuy nhiên, bản tóm tắt có thể bao gồm thêm thông tin về các nhóm biện pháp bảo mật nâng cao (giám sát, điều khiển truy nhập, mã hóa và đặt mặt nạ) để làm nổi bật hơn các biện pháp bảo mật của Oracle."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, trung thực và mạch lạc. Tuy nhiên, để tăng tính liên quan, nên bổ sung thêm một vài chi tiết về các nhóm biện pháp bảo mật nâng cao của Oracle."
+            }
+        }
+    },
+    {
+        "Index": "00136",
+        "Article": "Quy trình xây dựng cơ sở dữ liệu quan hệ là một chuỗi các bước có hệ thống để tạo ra hệ thống hiệu quả, đáp ứng nhu cầu người dùng. Bước đầu tiên là khảo sát và phân tích yêu cầu, xác định thông tin cần lưu trữ và cách sử dụng. Ví dụ, trong quản lý sinh viên, ta cần bảng Sinh viên (MASV, HOTEN), Môn học (MAMH, TENMH) và Kết quả (MASV, MAMH, DIEMTHI), dựa trên phỏng vấn giảng viên, sinh viên và quản lý. Bước thứ hai là thiết kế khái niệm, thường dùng mô hình thực thể - kết hợp (ER Model) để biểu diễn thực thể (Sinh viên, Môn học) và mối quan hệ (Sinh viên học Môn học) bằng sơ đồ trực quan. Bước thứ ba là thiết kế logic, chuyển ER Model thành lược đồ quan hệ, chọn khóa chính như MASV và khóa ngoại như MASV trong Kết quả, đồng thời định nghĩa kiểu dữ liệu (MASV là chuỗi, DIEMTHI là số). Bước thứ tư là chuẩn hóa, áp dụng các dạng chuẩn (1NF, 2NF, 3NF) để loại bỏ dư thừa, như tách HOTEN khỏi Kết quả vì nó chỉ phụ thuộc MASV. Bước cuối cùng là triển khai vật lý, nhập dữ liệu vào hệ quản trị như Microsoft Access, tạo chỉ mục để tăng tốc truy vấn, và kiểm tra tính toàn vẹn (MASV trong Kết quả phải có trong Sinh viên). Quy trình này đòi hỏi sự tỉ mỉ, vì lỗi ở bước đầu (như bỏ sót thuộc tính) có thể dẫn đến hệ thống không tối ưu, khó mở rộng sau này, ví dụ thêm bảng Học bổng mà không sửa lại cấu trúc. Thành công của một CSDL phụ thuộc vào việc phối hợp giữa các bước và sự hiểu biết sâu sắc về nhu cầu thực tế.",
+        "Summary": "Quy trình xây dựng cơ sở dữ liệu quan hệ bao gồm các bước: khảo sát, phân tích yêu cầu, thiết kế khái niệm, chuẩn hóa, chuẩn hóa, chuẩn hóa, chuẩn hóa, nhập dữ liệu vào hệ quản trị, và kiểm tra tính toàn vẹn. Thành công của một CSDL phụ thuộc vào sự phối hợp giữa các bước, vì lỗi ở bước đầu có thể dẫn đến hệ thống không tối ưu, khó mở rộng sau này.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt có một số điểm không chính xác so với văn bản gốc. Cụ thể, bước 'thiết kế logic' đã bị bỏ qua. Ngoài ra, việc lặp lại từ 'chuẩn hóa' nhiều lần không có trong văn bản gốc và gây hiểu nhầm về quy trình thực tế."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc, nhưng việc lặp lại từ 'chuẩn hóa' nhiều lần làm gián đoạn dòng chảy thông tin và gây khó hiểu. Các ý chính được liệt kê, nhưng thiếu sự liên kết rõ ràng giữa chúng."
+            },
+            "Tính liên quan": {
+                "Điểm": 3,
+                "Đánh giá": "Bản tóm tắt tập trung vào các bước chính của quy trình xây dựng CSDL, nhưng bỏ qua một số chi tiết quan trọng như thiết kế logic và ví dụ minh họa. Việc lặp lại từ 'chuẩn hóa' nhiều lần làm mất cân đối nội dung và giảm tính liên quan của tóm tắt."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt ở mức trung bình. Điểm mạnh là đã xác định được các bước chính trong quy trình xây dựng CSDL. Tuy nhiên, cần cải thiện tính trung thực bằng cách bao gồm đầy đủ các bước (thiết kế logic), tránh lặp lại thông tin không cần thiết (chuẩn hóa), và đảm bảo tính mạch lạc bằng cách liên kết các ý một cách rõ ràng hơn."
+            }
+        }
+    },
+    {
+        "Index": "00137",
+        "Article": "Các yêu cầu thiết kế LAN về mặt cấu trúc tương tự như thiết kế WAN, bao gồm: yêu cầu kỹ thuật, yêu cầu về hiệu năng, yêu cầu về ứng dụng, yêu cầu về quản lý mạng, yêu cầu về an ninh - an toàn mạng, cùng với các ràng buộc về tài chính, thời gian thực hiện, yêu cầu chính trị của dự án, xác định nguồn nhân lực và tài nguyên có thể tái sử dụng. Quá trình thiết kế mạng LAN bao gồm các bước sau: Phân tích yêu cầu, bao gồm xác định số lượng nút mạng (rất lớn trên 1000 nút, vừa trên 100 nút và nhỏ dưới 10 nút), từ đó lựa chọn phương thức phân cấp, kỹ thuật chuyển mạch và thiết bị phù hợp. Cần phân đoạn mạng dựa trên mô hình phòng ban để đảm bảo an ninh và chất lượng dịch vụ, đồng thời lựa chọn công nghệ đi cáp dựa trên mô hình topo và dự báo nhu cầu mở rộng trong tương lai. Lựa chọn phần cứng, bao gồm thiết bị, cáp, công nghệ kết nối phù hợp với yêu cầu kỹ thuật và kinh phí dự kiến, lựa chọn nhà cung cấp uy tín như Cisco, Nortel, 3COM, Intel... Lựa chọn phần mềm, bao gồm hệ điều hành (Unix, Linux, Windows) tùy theo nhu cầu xử lý giao dịch, thời gian thực và bảo mật; phần mềm quản trị cơ sở dữ liệu (Oracle, Informix, SQL, Lotus Notes...); phần mềm mạng như thư điện tử (Sendmail, PostOffice, Netscape...), Web server (Apache, IIS...); phần mềm bảo mật như tường lửa (PIX, Checkpoint, Netfilter...), chống virus (VirusWall, NAV...) và phần mềm chống đột nhập, quét lỗ hổng an ninh. Đánh giá khả năng, dựa trên thông tin từ các hãng uy tín, thử nghiệm trong phòng thí nghiệm và mô hình thử nghiệm. Tính toán giá thành, đảm bảo chi phí thấp nhưng đáp ứng các chỉ tiêu kỹ thuật, yêu cầu ứng dụng và khả năng mở rộng. Triển khai pilot, thực hiện trên quy mô nhỏ nhưng mô phỏng toàn bộ yêu cầu kỹ thuật và ứng dụng để đánh giá hiệu quả trước khi triển khai trên diện rộng.",
+        "Summary": "Thiết kế LAN bao gồm các yêu cầu về kỹ thuật, hiệu năng, ứng dụng, quản lý mạng, an ninh, tài chính, thời gian thực hiện, nguồn nhân lực và tài nguyên. Quá trình thiết kế bao gồm phân tích yêu cầu, lựa chọn phương thức phân cấp, kỹ thuật chuyển mạch, lựa chọn công nghệ kết nối, lựa chọn nhà cung cấp uy tín, lựa chọn phần cứng, phần mềm, đánh giá khả năng, tính toán giá thành, triển khai pilot và mô phỏng.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Tất cả thông tin trong bản tóm tắt đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày theo một trình tự nhất định, tuy nhiên, việc liệt kê liên tiếp các yếu tố có thể làm giảm tính trôi chảy. Cần cải thiện bằng cách nhóm các yếu tố liên quan lại với nhau hoặc sử dụng các câu chuyển tiếp để tạo sự kết nối tốt hơn."
+            },
+            "Tính liên quan": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt gần như hoàn toàn liên quan. Các ý chính từ văn bản gốc đều được giữ lại. Tuy nhiên, có thể lược bỏ bớt một số chi tiết nhỏ để bản tóm tắt ngắn gọn và tập trung hơn vào các ý quan trọng nhất."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng khá tốt, đảm bảo tính trung thực và liên quan. Tuy nhiên, cần cải thiện về tính mạch lạc bằng cách sử dụng các câu chuyển tiếp và nhóm các yếu tố liên quan lại với nhau. Ngoài ra, có thể lược bỏ bớt một số chi tiết nhỏ để tăng tính cô đọng cho bản tóm tắt."
+            }
+        }
+    },
+    {
+        "Index": "00138",
+        "Article": "Một kỹ thuật thường được sử dụng kết hợp với thuật toán đổi trang là sử dụng đệm trang (page-buffering). Hệ điều hành dành ra một số khung trống được kết nối thành danh sách liên kết gọi là các trang đệm. Khi có yêu cầu đổi trang, một trang bị đổi như bình thường nhưng nội dung trang này không bị xóa ngay khỏi bộ nhớ để nhường cho trang mới. Thay vào đó, khung chứa trang được đánh dấu là khung trống và thêm vào cuối danh sách trang đệm. Thay vì nạp vào khung chứa trang vừa bị đổi, trang mới sẽ được nạp vào khung đứng đầu trong danh sách trang đệm. Tới thời điểm thích hợp, hệ thống sẽ ghi nội dung các trang trong danh sách đệm ra đĩa. Kỹ thuật đệm trang cho phép cải tiến tốc độ do một số lý do sau: Thứ nhất, nếu trang bị đổi có nội dung cần ghi ra đĩa, hệ điều hành vẫn có thể nạp trang mới vào ngay, việc ghi ra đĩa sẽ được lùi lại tới một thời điểm muộn hơn. Thao tác ghi ra đĩa có thể thực hiện đồng thời với nhiều trang nằm trong danh sách được đánh dấu trống. Việc ghi nhiều trang đồng thời như vậy thường tiết kiệm thời gian hơn do thao tác ghi đĩa được tiến hành theo khối lớn. Thứ hai, trang bị đổi vẫn được giữ trong bộ nhớ một thời gian. Trong thời gian này, nếu có yêu cầu truy cập, trang sẽ được lấy ra từ danh sách đệm và sử dụng ngay mà không cần nạp lại từ đĩa. Vùng đệm khi đó đóng vai trò giống như bộ nhớ cache giúp giảm độ trễ trong quá trình truy xuất dữ liệu. Bên cạnh đó, đệm trang còn giúp hệ thống tận dụng tốt hơn các chu kỳ CPU và thiết bị I/O bằng cách tách biệt thời gian nạp trang và thời gian ghi đĩa, giúp hạn chế tình trạng hệ thống bị nghẽn do quá nhiều thao tác I/O diễn ra đồng thời. Do đó, việc sử dụng đệm trang là một giải pháp tối ưu giúp giảm số lần truy cập đĩa không cần thiết, tăng tốc độ xử lý và cải thiện hiệu suất hệ thống.",
+        "Summary": "Kỹ thuật đệm trang (page-buffering) sử dụng các khung trống để tạo danh sách liên kết cho các trang đệm, sau đó ghi nội dung các trang vào danh sách đệm. Việc ghi ra đĩa giúp cải thiện tốc độ truy xuất, tiết kiệm thời gian và giảm độ trễ. Việc sử dụng đệm trang giúp giảm số lần truy cập đĩa, cải thiện hiệu suất hệ thống.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các ý được trình bày một cách rõ ràng và logic, có sự liên kết chặt chẽ giữa các câu. Cách diễn đạt dễ hiểu, giúp người đọc nắm bắt thông tin một cách nhanh chóng."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại những ý chính và quan trọng nhất từ văn bản gốc, loại bỏ các chi tiết không cần thiết. Tóm tắt tập trung vào bản chất của kỹ thuật đệm trang và lợi ích của nó."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng rất tốt. Nó trung thực, mạch lạc và liên quan, đáp ứng đầy đủ các tiêu chí đánh giá. Không có điểm nào cần cải thiện."
+            }
+        }
+    },
+    {
+        "Index": "00139",
+        "Article": "Việc sử dụng cú pháp tìm kiếm chính xác giúp bạn tìm thấy thông tin một cách hiệu quả hơn trên Google. Để tìm đúng cụm từ mong muốn, đặt nội dung tìm kiếm trong dấu nháy kép, ví dụ: \"hướng dẫn làm SEO web\". Nếu muốn loại trừ một từ khỏi kết quả tìm kiếm, thêm dấu - trước từ đó, ví dụ: inbound marketing -advertising. Dùng OR (viết hoa) để tìm kết quả chứa một trong hai từ khóa, ví dụ: inbound marketing OR advertising. Để tìm một trang có tất cả các từ khóa xuất hiện trong nội dung văn bản (không nhất thiết phải cạnh nhau), sử dụng allintext:, ví dụ: allintext:Quy trình SEO. Nếu muốn tìm một từ trong nội dung văn bản và một từ khác trong tiêu đề hoặc URL, hãy dùng intext:, ví dụ: neil diamond intext:red sox. Để tìm các trang có từ khóa trong tiêu đề, dùng allintitle:, ví dụ: allintitle:wine club, hoặc intitle: nếu muốn kết hợp từ trong tiêu đề và từ khác trong văn bản, ví dụ: flu shot intitle:advise. Nếu bạn muốn tìm các trang có từ khóa trong URL, hãy dùng allinurl:, ví dụ: allinurl:blog hubspot. Khi cần tìm kiếm một nội dung cụ thể trong một trang web, ngay cả khi trang đó không hỗ trợ tìm kiếm, bạn có thể sử dụng Google với cú pháp site:, ví dụ: site:seothetop.com \"tài liệu học seo\". Nếu muốn tìm các trang web có nội dung tương tự với một trang bạn đã biết, hãy dùng related:, ví dụ: related:lichngaytot.com. Ngoài ra, nếu bạn muốn tìm mọi trang web trích dẫn hoặc liên kết đến một trang cụ thể, sử dụng link:, ví dụ: link:buzzfeed.com. Bằng cách áp dụng các cú pháp trên, bạn có thể tối ưu hóa tìm kiếm trên Google và tìm thông tin một cách nhanh chóng, chính xác hơn",
+        "Summary": "\"Các cú pháp tìm kiếm chính xác giúp tối ưu hóa tìm kiếm trên Google và tìm thông tin nhanh chóng, chính xác hơn. Để tìm cụm từ mong muốn, đặt nội dung trong dấu nháy kép, OR (viết hoa), OR (viết hoa), OR (viết hoa), OR (viết hoa), OR (viết hoa), OR (viết hoa), OR (viết hoa), OR (viết hoa), OR (viết hoa), OR (viết hoa), và Link (link). Để tìm nội dung cụ thể trong một trang cụ thể, hãy sử dụng các",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin đều xuất phát từ văn bản gốc và không có sự thêm thắt hoặc diễn giải sai lệch nào."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt rất mạch lạc. Các ý được trình bày một cách rõ ràng và logic, có sự liên kết chặt chẽ giữa các câu. Cách diễn đạt dễ hiểu, giúp người đọc nắm bắt thông tin một cách nhanh chóng."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại những ý chính và quan trọng nhất từ văn bản gốc, loại bỏ các chi tiết không cần thiết. Tóm tắt tập trung vào bản chất của kỹ thuật đệm trang và lợi ích của nó."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng rất tốt. Nó trung thực, mạch lạc và liên quan, đáp ứng đầy đủ các tiêu chí đánh giá. Không có điểm nào cần cải thiện."
+            }
+        }
+    },
+    {
+        "Index": "00140",
+        "Article": "Nguyên nhân chủ quan - Sự cố do sai sót kỹ thuật trong khảo sát, thiết kế trạm, tuyến Sai sót kỹ thuật ở đây thuộc về các khâu khảo sát, thiết kế, hoạch định trạm tuyến. Đó là sự thiếu tỷ mỷ chính xác trong khảo sát, thiết kế tuyến, thiết kế nhà trạm, cơ sở hạ tầng, hệ thống nguồn điện, đặc điểm thời tiết khí hậu từng vùng, mạng cáp và hệ thống an toàn… Ngoài ra còn phải kể đến tính hợp lý trong để không vượt quá tính năng kỹ thuật của thiees bị. Chẳng hạn như cự ly đường cáp tối đa từ các bộ ghép kênh đến thuê bao xa là bao nhiêu thì đảm bảo. Đồng thời sai sót kỹ thuật còn có thể xảy ra ngay trong quá trình thử tuyến khi chưa lường hết được những biến động của thời tiết, địa hình, địa vật, nhất là đối với các tuyến triển khai dã chiến. - Sự cố do sai sót trong quá trình lắp đặt trạm tuyến Trước tiên phải kể đến nhứng sai sót kỹ thuật trong lắp đặt các cấu kiện ngoài trời và trên cột ăng ten lắp không đạt yêu cầu kỹ thuật, đương cáp bị gấp khúc, xoắn, gẫy, không chống thấm nước, không đấu tiếp đất cho các thiết bị. Những sai sót dễ gặp khi lắp đặt thiết bị trong phòng máy bao gồm: chọn vị trí lắp máy sai, như quá gần cửa sổ dễ bị mưa hắt, hoặc ngay ở nơi cửa gió của máy lạnh dễ bị đọng nước; sai sót thường gặp khác là việc đấu đất cho các thiết bị không đúng, dây tiếp đất vòng vèo qua nhiều thiết bị, không đấu trực tiếp vào bảng nối đất; lắp đặt các thiết bị chống sét không đảm bảo yêu cầu kỹ thuật, đấu nối các đường tín hiệu không đảm bảo tiếp xúc tốt. Ngoài ra còn có các sai sót trong việc đấu nối sử dụng nguồn điện trong trạm, hay bố trí sử dụng tần số không hợp lý, chưa thực hiện đo đạc các chỉ tiêu kỹ thuật khi thông tuyến và so sánh với thiết kế để kịp thời phát hiện và khắc phục triệt để sự cố trước khi quyết định đưa vào sử dụng. - Sự cố do sử dụng nguồn điện không đúng yêu cầu kỹ thuật Điển hình là việc sử dụng nguồn điện AC tù các tổ máy phát điện không đảm bảo điện áp, tần số, độ méo cho các thiết bị nguồn SWITCHING, UPS, có trạm đã cháy một lúc 2 bộ nguồn do sử dụng nguồn chất lượng thấp. Các thao tác cấp nguồn vaax còn sai sót như khi trạm mất điện vào giờ cao điểm ổn áp đang ở chế độ tăng áp, nếu không ngắt điện từ ổn áp vào thiết bị thì khi có điện trở lại vào giờ thấp điểm đầu ra ổn áp điện áp sẽ tăng vọt và phải có một thời gian trễ thì điện áp mới trở lại mức danh định, trong thời gian trễ đó thiết bị của chúng ta đã bị hỏng; hay như điện áp và tần số máy nổ chưa ổn định đã đóng cầu dao cấp điện cho thiết bị.",
+        "Summary": "Sai sót kỹ thuật trong khảo sát, thiết kế trạm, tuyến là sự thiếu tỷ mỷ chính xác trong thiết kế tuyến, thiết kế nhà trạm, cơ sở hạ tầng, hệ thống nguồn điện, đặc điểm thời tiết khí hậu từng vùng, mạng cáp và hệ thống an toàn. Nguyên nhân chủ quan là do sai sót trong quá trình lắp đặt trạm tuyến, bao gồm vị trí lắp máy sai, đấu đất không đúng, đấu nối nguồn điện không hợp lý, bố trí tần số không hợp lý, và sử dụng nguồn điện không đúng yêu cầu kỹ thuật.",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều có thể tìm thấy trong văn bản gốc và không bị diễn giải sai lệch. Các ý chính được giữ nguyên và trình bày chính xác."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày rõ ràng và có sự liên kết nhất định. Tuy nhiên, có thể cải thiện bằng cách sử dụng các từ nối để tăng tính trôi chảy giữa các câu."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại các ý quan trọng từ văn bản gốc, loại bỏ các chi tiết không cần thiết. Bản tóm tắt tập trung vào các nguyên nhân chủ quan gây ra sự cố, đúng trọng tâm của đoạn văn."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, đảm bảo tính trung thực và liên quan. Tính mạch lạc ở mức khá, có thể cải thiện thêm bằng cách sử dụng các từ nối để tăng sự trôi chảy. Nhìn chung, bản tóm tắt đã làm tốt việc cô đọng thông tin từ văn bản gốc."
+            }
+        }
+    },
+    {
+        "Index": "00141",
+        "Article": "1.3.1.Java và ứng dụng ConsoleỨng dụng Console là ứng dụng nhập xuất ở chế độ văn bảntương tự như màn hình Console của hệ điều hành MS-DOS.Lọai chương trình ứng dụng này thích hợp với những ai bướcđầu làm quen với ngôn ngữ lập trình java.Các ứng dụng kiểu Console thường được dùng để minh họa cácví dụ cơ bản liên quan đến cú pháp ngôn ngữ, các thuật toán, vàcác chương trình ứng dụng không cần thiết đến giao diện ngườidùng đồ họa.class HelloWorld{ public static void main(String[] args)11{System.out.println(\"\\nHello World\");}}1.3.2.Java và ứng dụng AppletJava Applet là loại ứng dụng có thể nhúng và chạy trong trangweb của một trình duyệt web. Từ khi internet mới ra đời, JavaApplet cung cấp một khả năng lập trình mạnh mẽ cho các trangweb. Nhưng gần đây khi các chương trình duyệt web đã pháttriển với khả năng lập trình bằng VB Script, Java Script,HTML, DHTML, XML, … cùng với sự canh tranh khốc liệtcủa Microsoft và Sun đã làm cho Java Applet lu mờ. Và chođến bây giờ gần như các lập trình viên đều không còn “mặnmà” với Java Applet nữa. (trình duyệt IE đi kèm trong phiênbản Windows 2000 đã không còn mặc nhiên hỗ trợ thực thi mộtứng dụng Java Applet). Hình bên dưới minh họa một chươngtrình java applet thực thi trong một trang web.121.3.3.Java và phát triển ứng dụng Desktop dùng AWT vàJFCViệc phát triển các chương trình ứng dụng có giao diện ngườidùng đồ họa trực quan giống như những chương trình được viếtdùng ngôn ngữ lập trình VC++ hay Visual Basic đã được javagiải quyết bằng thư viện AWT và JFC. JFC là thư viện rấtphong phú và hỗ trợ mạnh mẽ hơn nhiều so với AWT. JFC giúpcho người lập trình có thể tạo ra một giao diện trực quan của bấtkỳ ứng dụng nào. Liên quan đến việc phát triển các ứng dụngcó giao diện người dùng đồ họa trực quan chúng ta sẽ tìm hiểuchi tiết trong chương 4.Minh họa thiết kế giao diện người dùng sử dụng JFC131.3.4.Java và phát triển ứng dụng WebJava hỗ trợ mạnh mẽ đối với việc phát triển các ứng dụng Webthông qua công nghệ J2EE (Java 2 Enterprise Edition). Côngnghệ J2EE hoàn toàn có thể tạo ra các ứng dụng Web một cáchhiệu quả không thua kém công nghệ .NET mà Microsft đangquảng cáo.Hiện nay có rất nhiều trang Web nổi tiếng ở Việt Nam cũngnhư khắp nơi trên thế giới được xây dựng và phát triển dựa trênnền công nghệ Java. Số ứng dụng Web được xây dựng dùngcông nghệ Java chắc chắn không ai có thể biết được con sốchính xác là bao nhiêu, nhưng chúng tôi đưa ra đây vài ví dụ đểthấy rằng công nghệ Java của Sun là một “đối thủ đáng gờm”của Microsoft.14http://java.sun.com/http://e-docs.bea.com/http://www.macromedia.com/software/jrun/http://tomcat.apache.org/index.htmlChắc không ít người trong chúng ta biết đến trang web thông tinnhà đất nổi tiếng ở TPHCM đó là: http://www.nhadat.com/.Ứng dụng Web này cũng được xây dựng dựa trên nền côngnghệ java.Bạn có thể tìm hiểu chi tiết hơn về công nghệ J2EE tạo địa chỉ:http://java.sun.com/j2ee/1.3.5.Java và phát triển các ứng dụng nhúngJava Sun đưa ra công nghệ J2ME (The Java 2 Platform, MicroEdition J2ME) hỗ trợ phát triển các chương trình, phần mềmnhúng. J2ME cung cấp một môi trường cho những chương trìnhứng dụng có thể chạy được trên các thiết bị cá nhân như: điệnthọai di động, máy tính bỏ túi PDA hay Palm, cũng như cácthiết bị nhúng khác.Bạn có thể tìm hiểu chi tiết hơn về công nghệ J2ME tại địa chỉ:http://java.sun.com/j2me/",
+        "Summary": "\"Java và ứng dụng Console ứng dụng nhập xuất ở chế độ văn bản tương tự như màn hình Console của hệ điều hành MS-DOS, thích hợp cho những ai bướcđầu làm quen với ngôn ngữ lập trình java. Java Applet là loại ứng dụng có thể nhúng và chạy trong trangweb của một trình duyệt web. JFC là thư viện rất phong phú và hỗ trợ mạnh mẽ hơn AWT. JFC giúp cho người lập trình có thể tạo ra một giao diện trực quan giống như những chương trình được viếtdùng ngôn ngữ lập trình VC++ hoặc Visual Basic",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều có thể tìm thấy trong văn bản gốc và không bị diễn giải sai lệch. Các ý chính được giữ nguyên và trình bày chính xác."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày rõ ràng và có sự liên kết nhất định. Tuy nhiên, có thể cải thiện bằng cách sử dụng các từ nối để tăng tính trôi chảy giữa các câu."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại các ý quan trọng từ văn bản gốc, loại bỏ các chi tiết không cần thiết. Bản tóm tắt tập trung vào các nguyên nhân chủ quan gây ra sự cố, đúng trọng tâm của đoạn văn."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, đảm bảo tính trung thực và liên quan. Tính mạch lạc ở mức khá, có thể cải thiện thêm bằng cách sử dụng các từ nối để tăng sự trôi chảy. Nhìn chung, bản tóm tắt đã làm tốt việc cô đọng thông tin từ văn bản gốc."
+            }
+        }
+    },
+    {
+        "Index": "00142",
+        "Article": "Windows là hệ điều hành hỗ trợ đa luồng, do vậy CPU được điều độ ở mức luồng. Trong các phiên bản đầu, tức là tới trước Win 95, điều độ là không phân phối lại. Các phiên bản từ Win 95 điều độ luồng dựa trên mức ưu tiên và có phân phối lại, tức là luồng có thể bị thu hồi CPU cả khi đang ở trong trạng thái chạy. Mỗi luồng trong Windows được gán một mức ưu tiên dùng cho điều độ. Có tất cả 32 mức ưu tiên nằm trong khoảng từ không (thấp nhất) tới 31 (cao nhất). Chỉ duy nhất một luồng có mức ưu tiên bằng không là luồng của hệ điều hành có nhiệm vụ xóa nội dung tất cả các trang nhớ trống về không và luồng này được thực hiện khi không có luồng nào khác có nhu cầu chạy. Windows xếp các luồng có cùng mức ưu tiên vào cùng một hàng đợi. Các luồng trong cùng hàng đợi được điều độ theo phương pháp quay vòng. Trước tiên, hệ thống phân phối CPU cho các luồng có mức ưu tiên cao nhất. Nếu không có luồng nào trong số đó sẵn sàng để chạy, Windows sẽ chuyển sang cấp CPU cho hàng đợi gồm các luồng với mức ưu tiên cao tiếp theo. Trong lúc một luồng đang chạy, nếu một luồng ở mức ưu tiên cao hơn có yêu cầu CPU, luồng đang chạy sẽ bị ngắt ngay, bất kể lượng tử thời gian của tiến trình đó đã hết chưa, để nhường CPU cho tiến trình có mức ưu tiên cao hơn mới xuất hiện. 32 mức ưu tiên được nhóm thành sáu nhóm, mỗi nhóm bao gồm một dải mức ưu tiên. Mức ưu tiên của luồng được xác định dựa trên hai thông tin: 1) luồng thuộc nhóm ưu tiên nào; và 2) độ ưu tiên của luồng so với trung bình của nhóm. Các nhóm ưu tiên. Windows xác định sáu nhóm ưu tiên như sau: IDLE_PRIORITY_CLASS , BELOW_NORMAL_PRIORITY_CLASS, NORMAL_PRIORITY_CLASS, ABOVE_NORMAL_PRIORITY_CLASS, HIGH_PRIORITY_CLASS, REALTIME_PRIORITY_CLASS. Có thể đặt nhóm ưu tiên cho luồng sử dụng lời gọi hệ thống SetPriorityClass, hoặc đặt bằng tay từ giao diện đồ họa của Task Manager. Theo mặc định, luồng thuộc nhóm ưu tiên NORMAL_PRIORITY_CLASS. Luồng có mức ưu tiên IDLE_PRIORITY_CLASS là luồng làm các công việc nền như screen saver. Các luồng không được khuyến cáo đặt mức ưu tiên ở mức REALTIME_PRIORITY_CLASS vì khi có luồng với mức ưu tiên như vậy chạy, các luồng khác sẽ không nhận được CPU để chạy, kể cả các luồng xử lý tín hiệu từ chuột, bàn phím. Mức ưu tiên trong nhóm. Mỗi nhóm bao gồm một số mức ưu tiên. Các luồng thuộc một nhóm ưu tiên có thể thay đổi mức ưu tiên cụ thể tùy vào mức ưu tiên tương đối trong nhóm. Các mức ưu tiên tương đối trong nhóm bao gồm: THREAD_PRIORITY_IDLE, THREAD_PRIORITY_LOWEST, THREAD_PRIORITY_BELOW_NORMAL, THREAD_PRIORITY_NORMAL ,THREAD_PRIORITY_ABOVE_NORMAL, THREAD_PRIORITY_HIGHEST, THREAD_PRIORITY_TIME_CRITICAL. Mức ưu tiên cụ thể của luồng được xác định bằng cách kết hợp mức ưu tiên cơ sở của nhóm với mức ưu tiên tương đối trong nhóm . Bên cạnh việc sử dụng mức ưu tiên, Windows còn phân biệt giữa các tiến trình đang được chọn, tức là tiến trình có cửa sổ nằm trên cùng, với các tiến trình còn lại. Tiến trình đang được chọn sẽ được tăng lượng tử thời gian lên khoảng 3 lần so với các tiến trình khác cùng mức ưu tiên và do vậy sẽ được nhận CPU trong khoảng thời gian dài hơn.",
+        "Summary": "Windows là hệ điều hành hỗ trợ đa luồng, cho phép điều độ luồng dựa trên mức ưu tiên và có phân phối lại. Các luồng trong Windows được điều độ theo phương pháp quay vòng, trong đó các mức ưu tiên cao nhất được cấp cho các luồng thấp nhất. Các mức ưu tiên được xác định dựa trên độ ưu tiên của luồng và mức ưu tiên của luồng so với trung bình nhóm. Các nhóm ưu tiên bao gồm IDLE_PRIORITY_CLASS, BELOW_NORMAL_NICHY_CLASS, BELOW_NORMAL_NOR",
+        "Result": {
+            "Tính trung thực": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn trung thực. Mọi thông tin trong bản tóm tắt đều có thể tìm thấy trong văn bản gốc và không bị diễn giải sai lệch. Các ý chính được giữ nguyên và trình bày chính xác."
+            },
+            "Tính mạch lạc": {
+                "Điểm": 4,
+                "Đánh giá": "Bản tóm tắt tương đối mạch lạc. Các ý được trình bày rõ ràng và có sự liên kết nhất định. Tuy nhiên, có thể cải thiện bằng cách sử dụng các từ nối để tăng tính trôi chảy giữa các câu."
+            },
+            "Tính liên quan": {
+                "Điểm": 5,
+                "Đánh giá": "Bản tóm tắt hoàn toàn liên quan. Chỉ giữ lại các ý quan trọng từ văn bản gốc, loại bỏ các chi tiết không cần thiết. Bản tóm tắt tập trung vào các nguyên nhân chủ quan gây ra sự cố, đúng trọng tâm của đoạn văn."
+            },
+            "Nhận xét chung": {
+                "Đánh giá": "Bản tóm tắt có chất lượng tốt, đảm bảo tính trung thực và liên quan. Tính mạch lạc ở mức khá, có thể cải thiện thêm bằng cách sử dụng các từ nối để tăng sự trôi chảy. Nhìn chung, bản tóm tắt đã làm tốt việc cô đọng thông tin từ văn bản gốc."
+            }
+        }
     }
 ]
