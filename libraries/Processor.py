@@ -43,6 +43,8 @@ class SummaryEvaluator:
                     top_k=50
                 )
             )
+            if not response or not hasattr(response, "text"):
+                return None
             return response.text
         except Exception:
             return None
@@ -59,9 +61,9 @@ class SummaryEvaluator:
                 fixed_value = f'"{inner_content}"'
             return f'{key}: {fixed_value}'
 
-        return re.sub(r'(\"[^"]+\"): (.*?)(?=\n|$)', replace_nested_quotes, json_str)
+        return re.sub(r'("[^"]+"): (.*?)(?=\n|$)', replace_nested_quotes, json_str)
 
-    def decode_fix(self, result, article, summary):
+    def decode_fix(self, result):
         retries = 0
         while retries < 3:
             try:
@@ -74,10 +76,8 @@ class SummaryEvaluator:
             except json.JSONDecodeError as e:
                 retries += 1
                 print(f"Decode Error! Attempt: {retries} - {e}")
-                result = self.evaluate_summary(article, summary)
-
         print("Failed to decode JSON!")
-        return result
+        return None
 
     def run(self):
         output_data = []
@@ -103,22 +103,29 @@ class SummaryEvaluator:
                 print("Raw result:", result)
 
             if result is None:
-                print(f"Summary {index+1} Failed to process. Skipping...")
+                print(f"Summary {index+1}: API Fail ...")
                 fail_num += 1
                 fail_streak += 1
-                if fail_streak >= 3:
-                    print("Fail = 3: Skipping all...")
+                if fail_streak >= 1:
+                    print("Skipping all...")
                     break
+                output_data.append({
+                    "Index": f"{index+1:05}",
+                    "Article": article,
+                    "Summary": summary,
+                    "Result": None
+                })
             else:
                 fail_streak = 0
                 print("Process successfully")
                 result = re.sub(r'\*', '', result)
 
-                decoded_result = self.decode_fix(result, article, summary)
+                decoded_result = self.decode_fix(result)
                 try:
-                    decoded_result_str = json.dumps(decoded_result, ensure_ascii=False)
-                    decoded_result_str = re.sub(r'\s+', ' ', decoded_result_str).strip()
-                    decoded_result = json.loads(decoded_result_str)
+                    if decoded_result:
+                        decoded_result_str = json.dumps(decoded_result, ensure_ascii=False)
+                        decoded_result_str = re.sub(r'\s+', ' ', decoded_result_str).strip()
+                        decoded_result = json.loads(decoded_result_str)
                 except Exception:
                     decoded_result = None
 
@@ -127,12 +134,12 @@ class SummaryEvaluator:
                 print(f"Result: {decoded_result}")
                 print("-" * 10)
 
-            output_data.append({
-                "Index": f"{index+1:05}",
-                "Article": article,
-                "Summary": summary,
-                "Result": decoded_result
-            })
+                output_data.append({
+                    "Index": f"{index+1:05}",
+                    "Article": article,
+                    "Summary": summary,
+                    "Result": decoded_result
+                })
 
         print(f"Evaluate Finished!")
         print(f"Fail: {fail_num}")
